@@ -5,7 +5,7 @@ Bienvenido a mi perfil de GitHub. Soy un apasionado por la tecnología y me enca
 ## Acerca de mí
 
 - 🌍 Vivo en Boliva.
-- 💼 Actualmente trabajo como [Tu Profesión o Cargo].
+- 💼 Actualmente trabajo como Desarrollador full stack.
 - 🌱 Estoy aprendiendo constantemente, especialmente en ciberseguridad.
 - 💬 Si tienes alguna pregunta o comentario, no dudes en contactarme.
 
