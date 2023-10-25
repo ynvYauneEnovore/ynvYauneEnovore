@@ -33,8 +33,8 @@ Puedes encontrarme en:
 - [LinkedIn](https://www.linkedin.com/in/ynv-yovanramonyauneenovore/)
 - [Facebook](https://www.facebook.com/ynvyvn/)
 - [Gitlab](https://gitlab.com/yovanuxf)
-- [Twitter](Enlace a tu perfil de Twitter)
-- [Correo Electrónico](yovanuxf@gmail.com)
+- Si deseas ponerte en contacto conmigo, puedes [enviarme un correo electrónico](mailto:yovanuxf@gmail.com).
+
 
 ¡No dudes en contactarme si tienes alguna pregunta o quieres hablar de colaboraciones interesantes!
 
