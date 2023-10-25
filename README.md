@@ -4,7 +4,7 @@ Bienvenido a mi perfil de GitHub. Soy un apasionado por la tecnología y me enca
 
 ## Acerca de mí
 
-- 🌍 Vivo en [Tu Ciudad, País].
+- 🌍 Vivo en Boliva.
 - 💼 Actualmente trabajo como [Tu Profesión o Cargo].
 - 🌱 Estoy aprendiendo constantemente, especialmente en [Áreas de Interés].
 - 💬 Si tienes alguna pregunta o comentario, no dudes en contactarme.
@@ -16,7 +16,6 @@ Bienvenido a mi perfil de GitHub. Soy un apasionado por la tecnología y me enca
 - 🐍 Programación en Python
 - 🌐 Tecnologías web (HTML, CSS, JavaScript)
 - ⚙️ Automatización y scripting
-- 📊 Análisis de datos
 
 ## Mis Proyectos Destacados
 
@@ -43,5 +42,7 @@ Puedes encontrarme en:
 [![Mis estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU_USERNAME&show_icons=true&count_private=true&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
 
 ¡Gracias por visitar mi perfil! 😄
