@@ -33,7 +33,7 @@ Puedes encontrarme en:
 
 - [LinkedIn](Enlace a tu perfil de LinkedIn)
 - [Twitter](Enlace a tu perfil de Twitter)
-- [Correo Electrónico](correo@example.com)
+- [Correo Electrónico](yovanuxf@gmail.com)
 
 ¡No dudes en contactarme si tienes alguna pregunta o quieres hablar de colaboraciones interesantes!
 
@@ -43,6 +43,6 @@ Puedes encontrarme en:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ynvYauneEnovore&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ynvYauneEnovore&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ynvYauneEnovore&show_progress=true)
 
 ¡Gracias por visitar mi perfil! 😄
