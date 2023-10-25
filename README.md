@@ -31,6 +31,8 @@ Bienvenido a mi perfil de GitHub. Soy un apasionado por la tecnología y me enca
 Puedes encontrarme en:
 
 - [LinkedIn](https://www.linkedin.com/in/ynv-yovanramonyauneenovore/)
+- [Facebook](https://www.facebook.com/ynvyvn/)
+- [Gitlab](https://gitlab.com/yovanuxf)
 - [Twitter](Enlace a tu perfil de Twitter)
 - [Correo Electrónico](yovanuxf@gmail.com)
 
