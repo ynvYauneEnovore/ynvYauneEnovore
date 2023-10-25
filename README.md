@@ -6,15 +6,14 @@ Bienvenido a mi perfil de GitHub. Soy un apasionado por la tecnología y me enca
 
 - 🌍 Vivo en Boliva.
 - 💼 Actualmente trabajo como [Tu Profesión o Cargo].
-- 🌱 Estoy aprendiendo constantemente, especialmente en [Áreas de Interés].
+- 🌱 Estoy aprendiendo constantemente, especialmente en ciberseguridad.
 - 💬 Si tienes alguna pregunta o comentario, no dudes en contactarme.
 
 ## Mis Habilidades
 
 - 💻 Desarrollo web
-- 📱 Desarrollo de aplicaciones móviles
-- 🐍 Programación en Python
-- 🌐 Tecnologías web (HTML, CSS, JavaScript)
+- 📱 Desarrollo de aplicaciones deskctop - escritorio para Windows
+- 🌐 Tecnologías web (HTML, CSS, JavaScript, typescript, laravel, php, vue, react)
 - ⚙️ Automatización y scripting
 
 ## Mis Proyectos Destacados
@@ -31,7 +30,7 @@ Bienvenido a mi perfil de GitHub. Soy un apasionado por la tecnología y me enca
 
 Puedes encontrarme en:
 
-- [LinkedIn](Enlace a tu perfil de LinkedIn)
+- [LinkedIn](https://www.linkedin.com/in/ynv-yovanramonyauneenovore/)
 - [Twitter](Enlace a tu perfil de Twitter)
 - [Correo Electrónico](yovanuxf@gmail.com)
 
