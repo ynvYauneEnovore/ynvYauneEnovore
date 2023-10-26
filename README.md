@@ -1,5 +1,8 @@
 # ¡Hola, soy Yovan Enovore! 👋
 
+[![An image of @ynvyauneenovore's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ynvyauneenovore)](https://holopin.io/@ynvyauneenovore)
+
+
 Bienvenido a mi perfil de GitHub. Soy un apasionado por la tecnología y me encanta aprender y compartir conocimientos. Aquí encontrarás algunos de mis proyectos, contribuciones y otras actividades relacionadas con la programación y la informática.
 
 ## Acerca de mí
@@ -39,9 +42,6 @@ Puedes encontrarme en:
 ¡No dudes en contactarme si tienes alguna pregunta o quieres hablar de colaboraciones interesantes!
 
 ## Estadísticas de GitHub
-
-[![An image of @ynvyauneenovore's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ynvyauneenovore)](https://holopin.io/@ynvyauneenovore)
-
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ynvYauneEnovore&show_icons=true)
 
