@@ -15,7 +15,7 @@ Bienvenido a mi perfil de GitHub. Soy un apasionado por la tecnología y me enca
 ## Mis Habilidades
 
 - 💻 Desarrollo web
-- 📱 Desarrollo de aplicaciones deskctop - escritorio para Windows
+- 📱 Desarrollo de aplicaciones de escritorio para Windows
 - 🌐 Tecnologías web (HTML, CSS, JavaScript, typescript, laravel, php, vue, react)
 - ⚙️ Automatización y scripting
 
