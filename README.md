@@ -1,5 +1,4 @@
 # Hello, my name is Yovan Enovore.
-**CEO of YNV Service**
 
 **Author - [Yovan Enovore](https://www.yovanenovore.site)**
 
