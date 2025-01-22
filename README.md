@@ -4,4 +4,4 @@
 
 [![An image of @ynvyauneenovore's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ynvyauneenovore)](https://holopin.io/@ynvyauneenovore)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=klerith&theme=transparent)](https://github.com/ynvYauneEnovore/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?ynvYauneEnovore=klerith&theme=transparent)](https://github.com/ynvYauneEnovore/github-readme-stats)
