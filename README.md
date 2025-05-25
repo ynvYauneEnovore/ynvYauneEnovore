@@ -6,6 +6,8 @@
   </a>
 </p>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ynvYauneEnovore)](https://git.io/streak-stats)
+
 **Author - [Yovan Enovore](https://www.yovanenovore.site)**
 
 [![An image of @ynvyauneenovore's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ynvyauneenovore)](https://holopin.io/@ynvyauneenovore)
