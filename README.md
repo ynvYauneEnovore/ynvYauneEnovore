@@ -1,7 +1,9 @@
 <div align="center">
   <h1 style="font-family: 'Roboto', sans-serif; font-size: 50px; font-weight: 800; color: #1a202c; margin-bottom: 20px;">Hola, soy <span style="color: #38B2AC;">Yovan Enovore</span></h1>
   
-  <p style="font-family: 'Roboto', sans-serif; color: #4A5568; font-size: 22px; margin-bottom: 40px; max-width: 800px; text-align: center;">Soy un desarrollador senior con más de 7 años de experiencia, especializado en soluciones escalables utilizando Docker, Kubernetes, y CI/CD. Mi trabajo se enfoca en ofrecer infraestructuras resilientes, orquestación de contenedores y automatización de despliegues para empresas locales. Muchos de mis proyectos son privados, pero puedes ver parte de ellos en mi perfil público de GitHub, con acceso a demostraciones y pruebas privadas en mis servidores dedicados.</p>
+  <p style="font-family: 'Roboto', sans-serif; color: #4A5568; font-size: 22px; margin-bottom: 40px; max-width: 800px; text-align: center;">
+    Soy un desarrollador senior con más de 7 años de experiencia, especializado en soluciones escalables utilizando Docker, Kubernetes y CI/CD. Mi trabajo se enfoca en ofrecer infraestructuras resilientes, orquestación de contenedores y automatización de despliegues para empresas locales. Muchos de mis proyectos son privados, pero puedes ver parte de ellos en mi perfil público de GitHub, con acceso a demostraciones privadas alojadas en mis servidores dedicados.
+  </p>
   
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=ynvYauneEnovore&theme=dark&locale=es&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" style="border-radius: 12px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); width: 100%; max-width: 750px; margin-bottom: 40px;"/>
