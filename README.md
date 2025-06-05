@@ -59,7 +59,7 @@
       Siempre en busca de nuevas oportunidades profesionales y proyectos innovadores. Si deseas ver demos privadas de mis proyectos, contáctame para coordinar una demostración en tiempo real a través de mis servidores dedicados. ¡Conéctemos y construyamos juntos el futuro de la tecnología!
     </p>
     <div style="margin-top: 20px;">
-      <a href="www.linkedin.com/in/yovanenovore" style="font-family: 'Roboto', sans-serif; font-size: 20px; color: #38B2AC; text-decoration: none; margin-right: 20px;">LinkedIn</a>
+      <a href="https://linkedin.com/in/yovanenovore" style="font-family: 'Roboto', sans-serif; font-size: 20px; color: #38B2AC; text-decoration: none; margin-right: 20px;">LinkedIn</a>
       <a href="https://github.com/ynvYauneEnovore" style="font-family: 'Roboto', sans-serif; font-size: 20px; color: #38B2AC; text-decoration: none;">GitHub</a>
     </div>
   </div>
