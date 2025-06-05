@@ -7,7 +7,7 @@
 </div>
 
 <p align="center">  
- <img src="https://skillicons.dev/icons?i=git,github,gitlab,kubernetes,docker,c,vim,alpinejs,androidstudio,angular,arch,arduino,astro,atom,aws,azure,babel,bash,blender,bootstrap,bun,cs,cpp,cloudflare,codepen,css,debian,discord,bots,dotnet,emacs,express,figma,gcp,githubactions,gmail,go,grafana,graphql,heroku,html,ai,instagram,java,js,jquery,kafka,kali,laravel,latex,linkedin,linux,lua,md,matlab,mongodb,mysql,neovim,nestjs,netlify,nextjs,nginx,nodejs,npm,nuxtjs,ps,php,phpstorm,pinia,pkl,plan9,pnpm,postgres,postman,powershell,pr,qt,r,rabbitmq,rails,raspberrypi,react,redhat,redis,redux,remix,ruby,rust,sass,spring,stackoverflow,svelte,svg,tailwind,twitter,ts,ubuntu,vercel,visualstudio,vite,vscode,vue,webpack,webstorm,windows,wordpress,xd,yarn" />
+ <img src="https://skillicons.dev/icons?i=git,github,gitlab,kubernetes,docker,c, cpp, cs, vim,alpinejs,androidstudio,angular,arch,arduino,astro,atom,aws,azure,babel,bash,blender,bootstrap,bun,cloudflare,codepen,css,debian,discord,bots,dotnet,emacs,express,figma,gcp,githubactions,gmail,go,grafana,graphql,heroku,html,ai,instagram,java,js,jquery,kafka,kali,laravel,latex,linkedin,linux,lua,md,matlab,mongodb,mysql,neovim,nestjs,netlify,nextjs,nginx,nodejs,npm,nuxtjs,ps,php,phpstorm,pinia,pkl,plan9,pnpm,postgres,postman,powershell,pr,qt,r,rabbitmq,rails,raspberrypi,react,redhat,redis,redux,remix,ruby,rust,sass,spring,stackoverflow,svelte,svg,tailwind,twitter,ts,ubuntu,vercel,visualstudio,vite,vscode,vue,webpack,webstorm,windows,wordpress,xd,yarn" />
 </p>
 
 [![An image of @ynvyauneenovore's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ynvyauneenovore)](https://holopin.io/@ynvyauneenovore)
