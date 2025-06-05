@@ -1,6 +1,6 @@
 # Hello, my name is Yovan Enovore.
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ynvYauneEnovore&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ynvYauneEnovore)
 
 <p align="center">
   <a href="https://skillicons.dev">
