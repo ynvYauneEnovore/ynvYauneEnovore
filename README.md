@@ -5,12 +5,12 @@
     Soy un desarrollador senior con más de 7 años de experiencia creando soluciones tecnológicas avanzadas. Me especializo en el diseño e implementación de infraestructuras escalables utilizando Docker, Kubernetes y CI/CD, optimizando procesos mediante automatización. Mi enfoque se centra en la resiliencia de los sistemas y la mejora continua a través de la orquestación de contenedores. Trabajo con empresas locales para mejorar su infraestructura y ofrecer soluciones a medida. 
   </p>
 
-  <!-- GitHub Streak -->
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=ynvYauneEnovore&theme=dark&locale=es&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" style="border-radius: 12px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); width: 100%; max-width: 750px; margin-bottom: 40px;"/>
+ <div style="margin-top: 30px;">
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,kubernetes,docker,c,cpp,cs,vim,alpinejs,androidstudio,angular,arch,arduino,astro,atom,aws,azure,babel,bash,blender,bootstrap,bun,cloudflare,codepen,css,debian,discord,bots,dotnet,emacs,express,figma,gcp,gmail,go,grafana,graphql,heroku,html,ai,instagram,java,js,jquery,kafka,kali,laravel,latex,linkedin,linux,lua,md,matlab,mongodb,mysql,postgres,neovim,nestjs,netlify,nextjs,nginx,nodejs,npm,ps,php,pnpm,postman,powershell,pr,raspberrypi,react,redhat,redis,redux,remix,sass,spring,stackoverflow,svelte,svg,tailwind,twitter,ts,ubuntu,vercel,visualstudio,vite,vscode,vue,webpack,windows,wordpress,xd,yarn" alt="Habilidades" style="border-radius: 12px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); width: 100%; max-width: 750px; margin-bottom: 40px;"/>
+  </div>
   </a>
 
-  <!-- Skill Badge -->
   <div style="margin-top: 30px;">
     <img src="https://skillicons.dev/icons?i=git,github,gitlab,kubernetes,docker,azure,aws,linux,nodejs,react,typescript,java,postgres,mongodb,mysql,ci,cicd" alt="Habilidades" style="border-radius: 12px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); width: 100%; max-width: 750px; margin-bottom: 40px;"/>
   </div>
