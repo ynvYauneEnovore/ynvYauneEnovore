@@ -1,7 +1,7 @@
 <div align="center">
-  <h1 style="font-family: 'Roboto', sans-serif; font-size: 48px; font-weight: 800; color: #1a202c; margin-bottom: 20px;">Hola, soy <span style="color: #38B2AC;">Yovan Enovore</span></h1>
+  <h1 style="font-family: 'Roboto', sans-serif; font-size: 50px; font-weight: 800; color: #1a202c; margin-bottom: 20px;">Hola, soy <span style="color: #38B2AC;">Yovan Enovore</span></h1>
   
-  <p style="font-family: 'Roboto', sans-serif; color: #4A5568; font-size: 22px; margin-bottom: 40px; max-width: 800px; text-align: center;">Soy un desarrollador senior con más de 7 años de experiencia especializado en soluciones escalables, implementación de contenedores y orquestación de clústeres utilizando Docker y Kubernetes. Mi enfoque abarca la implementación de pipelines de CI/CD de alto rendimiento, y la creación de infraestructuras resilientes para empresas locales en sectores como telecomunicaciones, salud y servicios financieros.</p>
+  <p style="font-family: 'Roboto', sans-serif; color: #4A5568; font-size: 22px; margin-bottom: 40px; max-width: 800px; text-align: center;">Soy un desarrollador senior con más de 7 años de experiencia, especializado en soluciones escalables utilizando Docker, Kubernetes, y CI/CD. Mi trabajo se enfoca en ofrecer infraestructuras resilientes, orquestación de contenedores y automatización de despliegues para empresas locales. Muchos de mis proyectos son privados, pero puedes ver parte de ellos en mi perfil público de GitHub, con acceso a demostraciones y pruebas privadas en mis servidores dedicados.</p>
   
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=ynvYauneEnovore&theme=dark&locale=es&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" style="border-radius: 12px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); width: 100%; max-width: 750px; margin-bottom: 40px;"/>
@@ -20,11 +20,14 @@
   </a>
 
   <div align="center" style="margin-top: 50px;">
-    <h2 style="font-family: 'Roboto', sans-serif; font-size: 36px; font-weight: 800; color: #1a202c; margin-bottom: 30px;">Proyectos Más Destacados</h2>
-    <ul style="font-family: 'Roboto', sans-serif; color: #4A5568; font-size: 20px; line-height: 1.8; list-style: none; padding: 0; margin: 0; text-align: left; max-width: 900px; margin: 0 auto;">
-      <li><strong>Project Titan</strong>: Plataforma de procesamiento en tiempo real de datos para una empresa de telecomunicaciones local. Implementación de Docker y Kubernetes para la orquestación de contenedores, mejorando la eficiencia y reduciendo los costos operativos en un 40%.</li>
-      <li><strong>CloudSync</strong>: Plataforma de sincronización de datos en la nube, desarrollada para un proveedor de servicios financieros. Implementación de pipelines de CI/CD para actualizaciones automáticas y reducción de tiempos de inactividad en un 60%.</li>
-      <li><strong>HealthTrack</strong>: Aplicación de gestión y diagnóstico médico para un hospital local, utilizando IA y Docker para contenerización de servicios. Kubernetes para escalabilidad automática y mayor disponibilidad.</li>
+    <h2 style="font-family: 'Roboto', sans-serif; font-size: 36px; font-weight: 800; color: #1a202c; margin-bottom: 30px;">Proyectos Más Destacados (Privados)</h2>
+    <p style="font-family: 'Roboto', sans-serif; color: #4A5568; font-size: 18px; line-height: 1.8; max-width: 900px; margin: 0 auto; text-align: center;">
+      Mis proyectos más avanzados se encuentran en repositorios privados. Sin embargo, puedes acceder a una vista pública de mis proyectos en mi <a href="https://github.com/ynvYauneEnovore" style="color: #38B2AC;">perfil de GitHub</a> y solicitar acceso a demostraciones privadas alojadas en mis servidores dedicados para ver el funcionamiento real de mis soluciones tecnológicas. Aquí te dejo algunos detalles clave de estos proyectos:
+    </p>
+    <ul style="font-family: 'Roboto', sans-serif; color: #4A5568; font-size: 20px; line-height: 1.8; list-style: none; padding: 0; margin: 30px 0;">
+      <li><strong>Project Titan</strong>: Implementación de un sistema de procesamiento en tiempo real utilizando Docker y Kubernetes en un entorno de microservicios. Optimización de recursos y escalabilidad automatizada para un cliente del sector de telecomunicaciones.</li>
+      <li><strong>CloudSync</strong>: Sistema de sincronización de datos en la nube basado en microservicios, con integración de CI/CD, lo que permitió actualizaciones automatizadas y sin tiempo de inactividad.</li>
+      <li><strong>HealthTrack</strong>: Plataforma de gestión de datos médicos, con contenedores Docker y orquestación de Kubernetes, permitiendo escalabilidad automática y alta disponibilidad.</li>
     </ul>
   </div>
 
@@ -53,7 +56,7 @@
   <div align="center" style="margin-top: 50px;">
     <h2 style="font-family: 'Roboto', sans-serif; font-size: 36px; font-weight: 800; color: #1a202c; margin-bottom: 30px;">Conéctemos</h2>
     <p style="font-family: 'Roboto', sans-serif; color: #4A5568; font-size: 20px; line-height: 1.8; max-width: 900px;">
-      Abierto a explorar nuevas oportunidades profesionales y colaboraciones en proyectos innovadores. ¡Conéctemos y transformemos el futuro de la tecnología!
+      Siempre en la búsqueda de nuevas oportunidades y colaboraciones en proyectos innovadores. Si deseas acceder a mis proyectos privados o mostrar demos en servidores dedicados, no dudes en contactarme. ¡Conéctemos y transformemos el futuro de la tecnología!
     </p>
     <div style="margin-top: 20px;">
       <a href="https://www.linkedin.com/in/ynvyauneenovore" style="font-family: 'Roboto', sans-serif; font-size: 20px; color: #38B2AC; text-decoration: none; margin-right: 20px;">LinkedIn</a>
