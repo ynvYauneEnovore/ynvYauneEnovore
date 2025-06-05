@@ -49,7 +49,7 @@
       <p><strong>+3M</strong> usuarios activos mensuales en plataformas desarrolladas.</p>
       <p><strong>+73</strong> entornos de producción gestionados con alta disponibilidad y despliegues automáticos utilizando CI/CD y Kubernetes.</p>
       <p><strong>+40%</strong> mejora en tiempos de desarrollo y puesta en producción en proyectos anteriores gracias a la implementación de Docker y Kubernetes.</p>
-      <p><strong>Top 1%</strong> de desarrolladores en StackOverflow y comunidades de tecnología.</p>
+      <p><strong>Top 89%</strong> de desarrolladores en StackOverflow y comunidades de tecnología.</p>
     </div>
   </div>
 
@@ -59,7 +59,7 @@
       Siempre en busca de nuevas oportunidades profesionales y proyectos innovadores. Si deseas ver demos privadas de mis proyectos, contáctame para coordinar una demostración en tiempo real a través de mis servidores dedicados. ¡Conéctemos y construyamos juntos el futuro de la tecnología!
     </p>
     <div style="margin-top: 20px;">
-      <a href="https://www.linkedin.com/in/ynvyauneenovore" style="font-family: 'Roboto', sans-serif; font-size: 20px; color: #38B2AC; text-decoration: none; margin-right: 20px;">LinkedIn</a>
+      <a href="www.linkedin.com/in/yovanenovore" style="font-family: 'Roboto', sans-serif; font-size: 20px; color: #38B2AC; text-decoration: none; margin-right: 20px;">LinkedIn</a>
       <a href="https://github.com/ynvYauneEnovore" style="font-family: 'Roboto', sans-serif; font-size: 20px; color: #38B2AC; text-decoration: none;">GitHub</a>
     </div>
   </div>
