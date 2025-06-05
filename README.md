@@ -25,9 +25,9 @@
       Mis proyectos más avanzados se encuentran en repositorios privados. Sin embargo, puedes acceder a una vista pública de mis proyectos en mi <a href="https://github.com/ynvYauneEnovore" style="color: #38B2AC;">perfil de GitHub</a> y solicitar acceso a demostraciones privadas alojadas en mis servidores dedicados para ver el funcionamiento real de mis soluciones tecnológicas. Aquí te dejo algunos detalles clave de estos proyectos:
     </p>
     <ul style="font-family: 'Roboto', sans-serif; color: #4A5568; font-size: 20px; line-height: 1.8; list-style: none; padding: 0; margin: 30px 0;">
-      <li><strong>Project Titan</strong>: Implementación de un sistema de procesamiento en tiempo real utilizando Docker y Kubernetes en un entorno de microservicios. Optimización de recursos y escalabilidad automatizada para un cliente del sector de telecomunicaciones.</li>
-      <li><strong>CloudSync</strong>: Sistema de sincronización de datos en la nube basado en microservicios, con integración de CI/CD, lo que permitió actualizaciones automatizadas y sin tiempo de inactividad.</li>
-      <li><strong>HealthTrack</strong>: Plataforma de gestión de datos médicos, con contenedores Docker y orquestación de Kubernetes, permitiendo escalabilidad automática y alta disponibilidad.</li>
+      <li><strong>VerifyTrack</strong>: Implementación de un sistema de procesamiento en tiempo real utilizando Docker y Kubernetes en un entorno de microservicios. Optimización de recursos y escalabilidad automatizada para un cliente del sector de telecomunicaciones.</li>
+      <li><strong>SyncOptimice</strong>: Sistema de sincronización de datos en la nube basado en microservicios, con integración de CI/CD, lo que permitió actualizaciones automatizadas y sin tiempo de inactividad.</li>
+      <li><strong>MedTrack</strong>: Plataforma de gestión de datos médicos, con contenedores Docker y orquestación de Kubernetes, permitiendo escalabilidad automática y alta disponibilidad.</li>
     </ul>
   </div>
 
@@ -37,7 +37,7 @@
       <li><strong>Certified Kubernetes Administrator</strong> – <em>Linux Foundation</em></li>
       <li><strong>AWS Certified Solutions Architect – Professional</strong> – <em>Amazon Web Services</em></li>
       <li><strong>Google Cloud Certified Professional Cloud Architect</strong> – <em>Google Cloud</em></li>
-      <li><strong>Top 5% Developer</strong> en <strong>StackOverflow</strong> por contribuciones técnicas en desarrollo y resolución de problemas complejos.</li>
+      <li><strong>Top 50% Developer</strong> en <strong>StackOverflow</strong> por contribuciones técnicas en desarrollo y resolución de problemas complejos.</li>
       <li><strong>Certified Docker Professional</strong> – <em>Docker, Inc.</em></li>
     </ul>
   </div>
@@ -45,11 +45,11 @@
   <div align="center" style="margin-top: 50px;">
     <h2 style="font-family: 'Roboto', sans-serif; font-size: 36px; font-weight: 800; color: #1a202c; margin-bottom: 30px;">Mis Logros & Estadísticas</h2>
     <div style="font-family: 'Roboto', sans-serif; color: #4A5568; font-size: 20px; line-height: 1.8; text-align: left; max-width: 900px; margin: 0 auto;">
-      <p><strong>+500</strong> contribuciones de código a proyectos Open Source en plataformas como GitHub y GitLab.</p>
-      <p><strong>+5M</strong> usuarios activos mensuales utilizando aplicaciones y servicios desarrollados bajo mi supervisión.</p>
-      <p><strong>+10</strong> entornos de producción gestionados, con alta disponibilidad y despliegues automatizados usando CI/CD y Kubernetes.</p>
+      <p><strong>+23</strong> contribuciones de código a proyectos Open Source en plataformas como GitHub y GitLab.</p>
+      <p><strong>+3M</strong> usuarios activos mensuales utilizando aplicaciones y servicios desarrollados bajo mi supervisión.</p>
+      <p><strong>+73</strong> entornos de producción gestionados, con alta disponibilidad y despliegues automatizados usando CI/CD y Kubernetes.</p>
       <p><strong>+40%</strong> reducción de tiempos de desarrollo y puesta en producción en proyectos anteriores gracias a la implementación de Docker y Kubernetes.</p>
-      <p><strong>Top 1%</strong> de desarrolladores más destacados en comunidades de tecnología, con énfasis en Cloud, DevOps y escalabilidad.</p>
+      <p><strong>Top 59%</strong> de desarrolladores más destacados en comunidades de tecnología, con énfasis en Cloud, DevOps y escalabilidad.</p>
     </div>
   </div>
 
