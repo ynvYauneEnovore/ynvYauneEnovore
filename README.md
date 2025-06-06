@@ -4,7 +4,9 @@
   <p style="font-family: 'Roboto', sans-serif; color: #4A5568; font-size: 22px; margin-bottom: 40px; max-width: 800px; text-align: center;">
     I am a senior developer with over 7 years of experience building advanced technological solutions. I specialize in designing and implementing scalable infrastructures using Docker, Kubernetes, and CI/CD, optimizing processes through automation. My focus is on system resilience and continuous improvement through container orchestration. I collaborate with local businesses to enhance their infrastructure and provide custom solutions.
   </p>
-
+  <a href="https://github.com/anuraghazra/github-readme-stats" style="display: inline-block; margin-top: 30px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=ynvYauneEnovore&theme=transparent&show_icons=true&count_private=true&hide_title=true" alt="GitHub Stats" style="border-radius: 12px; width: 100%; max-width: 750px;"/>
+  </a>
   <div style="margin-top: 30px;">
     <a href="https://git.io/streak-stats">
       <img src="https://skillicons.dev/icons?i=git,github,gitlab,kubernetes,docker,c,cpp,cs,vim,alpinejs,androidstudio,angular,arch,arduino,astro,atom,aws,azure,babel,bash,blender,bootstrap,bun,cloudflare,codepen,css,debian,discord,bots,dotnet,emacs,express,figma,gcp,gmail,go,grafana,graphql,heroku,html,ai,instagram,java,js,jquery,kafka,kali,laravel,latex,linkedin,linux,lua,md,matlab,mongodb,mysql,postgres,neovim,nestjs,netlify,nextjs,nginx,nodejs,npm,ps,php,pnpm,postman,powershell,pr,raspberrypi,react,redhat,redis,redux,remix,sass,spring,stackoverflow,svelte,svg,tailwind,twitter,ts,ubuntu,vercel,visualstudio,vite,vscode,vue,webpack,windows,wordpress,xd,yarn" alt="Skills" style="border-radius: 12px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); width: 100%; max-width: 750px; margin-bottom: 40px;"/>
