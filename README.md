@@ -7,7 +7,7 @@
 <!-- Typing SVG -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Senior+Full+Stack+Developer+%F0%9F%9A%80;7%2B+Years+Building+Scalable+Solutions;Docker+%7C+Kubernetes+%7C+Cloud+Architecture" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%9A%80;7%2B+Years+Building+Scalable+Solutions;Docker+%7C+Kubernetes+%7C+Cloud+Architecture" alt="Typing SVG" />
   </a>
 </p>
 
