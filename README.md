@@ -37,7 +37,7 @@
   <a href="https://github.com/ynvYauneEnovore" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="mailto:contact@yovanenovore.dev">
+  <a href="mailto:yovanuxf@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://stackoverflow.com/users/ynvYauneEnovore" target="_blank">
@@ -56,7 +56,7 @@
 <br/>
 
 ```yaml
-name: Yovan Enovore
+name: Yovan R. Enovore
 role: Senior Software Engineer & Cloud Architect
 location: 🌍 Remote - Available Worldwide
 experience: 7+ years in enterprise solutions
