@@ -57,9 +57,9 @@
 
 ```yaml
 name: Yovan R. Enovore
-role: Senior Software Engineer & Cloud Architect
-location: 🌍 Remote - Available Worldwide
-experience: 7+ years in enterprise solutions
+role: Software Engineer & Cloud Architect
+location: 🌍 Remote - Available Worldwide of 🇧🇴 Bolivia 
+experience: 4+ years in enterprise solutions
 specialization:
   - ☁️  Cloud Native Architecture (AWS, Azure, GCP)
   - 🐳 Container Orchestration (Kubernetes, Docker)
@@ -67,8 +67,8 @@ specialization:
   - 🏗️  Microservices & Scalable Systems
   - 📊 High Availability Infrastructure
 impact:
-  - 3M+ monthly active users
-  - 73+ production environments managed
+  - 18+ monthly active users
+  - 13+ production environments managed
   - 40% performance improvement achieved
   - 99.9% average uptime maintained
 ```
