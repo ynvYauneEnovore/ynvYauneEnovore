@@ -340,8 +340,8 @@ impact:
 | 🎯 Metric | 📊 Achievement | 📝 Details |
 |:---:|:---:|:---|
 | ⭐ **Open Source** | **23+** | Active contributions to GitHub projects |
-| 👥 **User Impact** | **3M+** | Monthly active users across platforms |
-| 🚀 **Infrastructure** | **73+** | Production environments managed |
+| 👥 **User Impact** | **18+** | Monthly active users across platforms |
+| 🚀 **Infrastructure** | **13+** | Production environments managed |
 | ⚡ **Performance** | **+40%** | Average improvement in delivery time |
 | 🏅 **Ranking** | **Top 11%** | StackOverflow developer ranking |
 | 💯 **Reliability** | **99.9%** | Average system uptime maintained |
