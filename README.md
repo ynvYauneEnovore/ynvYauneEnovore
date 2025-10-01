@@ -39,17 +39,6 @@
   </div>
 
   <div style="margin-top: 50px;">
-    <h2 style="font-family: 'Roboto', sans-serif; font-size: 36px; font-weight: 800; color: #1a202c; margin-bottom: 30px;">Certifications and Recognitions</h2>
-    <ul style="font-family: 'Roboto', sans-serif; color: #4A5568; font-size: 20px; line-height: 1.8; list-style: none; padding: 0; margin: 0; text-align: left; max-width: 900px; margin: 0 auto;">
-      <li><strong>Certified Kubernetes Administrator</strong> – <em>Linux Foundation</em></li>
-      <li><strong>AWS Certified Solutions Architect – Professional</strong> – <em>Amazon Web Services</em></li>
-      <li><strong>Google Cloud Certified Professional Cloud Architect</strong> – <em>Google Cloud</em></li>
-      <li><strong>Top 50% Developer</strong> on <strong>StackOverflow</strong> for contributions in development and solving complex issues.</li>
-      <li><strong>Certified Docker Professional</strong> – <em>Docker, Inc.</em></li>
-    </ul>
-  </div>
-
-  <div style="margin-top: 50px;">
     <h2 style="font-family: 'Roboto', sans-serif; font-size: 36px; font-weight: 800; color: #1a202c; margin-bottom: 30px;">Achievements and Stats</h2>
     <div style="font-family: 'Roboto', sans-serif; color: #4A5568; font-size: 20px; line-height: 1.8; text-align: left; max-width: 900px; margin: 0 auto;">
       <p><strong>+23</strong> contributions to open-source projects on platforms like GitHub.</p>
