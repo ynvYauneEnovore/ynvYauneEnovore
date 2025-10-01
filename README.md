@@ -4,9 +4,10 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Yovan%20Enovore&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
+<!-- Typing SVG -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&width=800&lines=🚀+Senior+Full+Stack+Developer;💼+7%2B+Years+of+Professional+Experience;☁️+Cloud+Architecture+%26+DevOps+Expert;🐳+Docker+%7C+Kubernetes+%7C+Microservices" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Senior+Full+Stack+Developer+%F0%9F%9A%80;7%2B+Years+Building+Scalable+Solutions;Docker+%7C+Kubernetes+%7C+Cloud+Architecture" alt="Typing SVG" />
   </a>
 </p>
 
