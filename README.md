@@ -23,8 +23,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/☁️_Cloud-Architecture-38B2AC?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/🚀_DevOps-Engineering-FF6B6B?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/💡_Experience-7%2B_Years-4ECDC4?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/👥_Users-1M%2B-FAA307?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/💡_Experience-4%2B_Years-4ECDC4?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/👥_Users-18%2B-FAA307?style=for-the-badge&logoColor=white"/>
 </p>
 
 <br/>
