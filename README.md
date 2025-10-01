@@ -13,13 +13,6 @@
 
 <br/>
 
-<!-- Typing SVG optimizado -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&width=800&lines=🚀+Senior+Full+Stack+Developer;💼+7%2B+Years+of+Professional+Experience;☁️+Cloud+Architecture+%26+DevOps+Expert;🐳+Docker+%7C+Kubernetes+%7C+Microservices" alt="Typing SVG" />
-  </a>
-</p>
-
 <br/>
 
 <!-- Badges profesionales mejorados -->
