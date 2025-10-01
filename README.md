@@ -1,62 +1,302 @@
 <div align="center">
-  <h1 style="font-family: 'Roboto', sans-serif; font-size: 50px; font-weight: 800; color: #1a202c; margin-bottom: 20px;">Hello, I'm <span style="color: #38B2AC;">Yovan Enovore</span></h1>
+
+<!-- Header animado -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Yovan%20Enovore&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+
+<!-- Typing SVG -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Senior+Full+Stack+Developer+%F0%9F%9A%80;7%2B+Years+Building+Scalable+Solutions;Docker+%7C+Kubernetes+%7C+Cloud+Architecture" alt="Typing SVG" />
+  </a>
+</p>
+
+<!-- Badges profesionales -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Cloud%20Architecture-38B2AC?style=for-the-badge&logo=icloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Specialization-DevOps-FF6B6B?style=for-the-badge&logo=devdotto&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Experience-7%2B%20Years-4ECDC4?style=for-the-badge&logo=clockify&logoColor=white"/>
+</p>
+
+<!-- Social Links con iconos mejorados -->
+<p align="center">
+  <a href="https://linkedin.com/in/yovanenovore">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/ynvYauneEnovore">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:contact@yovanenovore.dev">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 🎯 About Me
+
+```yaml
+name: Yovan Enovore
+role: Senior Software Engineer & Cloud Architect
+location: 🌍 Available Worldwide
+experience: 7+ years
+focus: 
+  - Cloud Native Architecture
+  - Microservices & Containers
+  - DevOps & CI/CD
+  - High Availability Systems
+current_status: Building scalable solutions for 3M+ users
+```
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+
+</div>
+
+---
+
+## 🛠️ Tech Stack & Expertise
+
+<div align="center">
+
+### ☁️ Cloud & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,azure,kubernetes,docker,terraform,jenkins,gitlab,github,githubactions&theme=dark&perline=9"/>
+</p>
+
+### 💻 Languages & Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,javascript,typescript,nodejs,react,angular,vue,nestjs,fastapi,django&theme=dark&perline=13"/>
+</p>
+
+### 🗄️ Databases & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis,mysql,elasticsearch,rabbitmq,kafka,grafana,prometheus&theme=dark&perline=9"/>
+</p>
+
+### 🔧 Development Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,vim,vscode,postman,nginx,linux,bash,powershell,arduino&theme=dark&perline=9"/>
+</p>
+
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
   
-  <p style="font-family: 'Roboto', sans-serif; color: #4A5568; font-size: 22px; margin-bottom: 40px; max-width: 800px; text-align: center;">
-    I am a senior developer with over 7 years of experience building advanced technological solutions. I specialize in designing and implementing scalable infrastructures using Docker, Kubernetes, and CI/CD, optimizing processes through automation. My focus is on system resilience and continuous improvement through container orchestration. I collaborate with local businesses to enhance their infrastructure and provide custom solutions.
-  </p>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ynvYauneEnovore&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-streak-stats.demolab.com?user=ynvYauneEnovore&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&locale=es"/>
 
-   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=ynvYauneEnovore&theme=dark&locale=es&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" style="border-radius: 12px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); width: 100%; max-width: 750px; margin-bottom: 40px;"/>  </a>
-    
-  <div style="margin-top: 30px;">
-    <a href="https://git.io/streak-stats">
-      <img src="https://skillicons.dev/icons?i=git,github,gitlab,kubernetes,docker,c,cpp,cs,vim,alpinejs,androidstudio,angular,arch,arduino,astro,atom,aws,azure,babel,bash,blender,bootstrap,bun,cloudflare,codepen,css,debian,discord,bots,dotnet,emacs,express,figma,gcp,gmail,go,grafana,graphql,heroku,html,ai,instagram,java,js,jquery,kafka,kali,laravel,latex,linkedin,linux,lua,md,matlab,mongodb,mysql,postgres,neovim,nestjs,netlify,nextjs,nginx,nodejs,npm,ps,php,pnpm,postman,powershell,pr,raspberrypi,react,redhat,redis,redux,remix,sass,spring,stackoverflow,svelte,svg,tailwind,twitter,ts,ubuntu,vercel,visualstudio,vite,vscode,vue,webpack,windows,wordpress,xd,yarn" alt="Skills" style="border-radius: 12px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); width: 100%; max-width: 750px; margin-bottom: 40px;"/>
-    </a>
-  </div>
-  
-  <div style="margin-top: 30px;">
-    <a href="https://holopin.io/@ynvyauneenovore">
-      <img src="https://holopin.me/ynvyauneenovore" alt="Holopin Profile" style="border-radius: 12px; width: 100%; max-width: 750px;"/>
-    </a>
-  </div>
-  
-  <div style="margin-top: 30px;">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api?username=ynvYauneEnovore&theme=transparent&show_icons=true&count_private=true&hide_title=true" alt="GitHub Stats" style="border-radius: 12px; width: 100%; max-width: 750px;"/>
-    </a>
-  </div>
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ynvYauneEnovore&layout=compact&theme=tokyonight&hide_border=true&langs_count=10"/>
 
-  <div style="margin-top: 50px;">
-    <h2 style="font-family: 'Roboto', sans-serif; font-size: 36px; font-weight: 800; color: #1a202c; margin-bottom: 30px;">Key Projects</h2>
-    <p style="font-family: 'Roboto', sans-serif; color: #4A5568; font-size: 18px; line-height: 1.8; max-width: 900px; margin: 0 auto; text-align: center;">
-      My private projects are crucial for advancing technological infrastructures. Although many are not public, you can explore a sample of my work through my <a href="https://github.com/ynvYauneEnovore" style="color: #38B2AC;">GitHub profile</a>. Request access to my private demos or explore the public examples on GitHub that reflect the same level of quality applied to production projects.
-    </p>
-    <ul style="font-family: 'Roboto', sans-serif; color: #4A5568; font-size: 20px; line-height: 1.8; list-style: none; padding: 0; margin: 30px 0;">
-      <li><strong>VerifyTrack</strong>: Real-time data processing solution, using Docker and Kubernetes in a microservices system, optimizing resources and enabling automatic scaling for telecom companies.</li>
-      <li><strong>SyncOptimice</strong>: Data synchronization platform based on microservices, integrating CI/CD to ensure automatic updates with no downtime.</li>
-      <li><strong>MedTrack</strong>: Advanced medical data management app, using Docker containers and Kubernetes orchestration, with an infrastructure supporting high availability and automatic scaling.</li>
-    </ul>
-  </div>
+<!-- GitHub Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ynvYauneEnovore&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 
-  <div style="margin-top: 50px;">
-    <h2 style="font-family: 'Roboto', sans-serif; font-size: 36px; font-weight: 800; color: #1a202c; margin-bottom: 30px;">Achievements and Stats</h2>
-    <div style="font-family: 'Roboto', sans-serif; color: #4A5568; font-size: 20px; line-height: 1.8; text-align: left; max-width: 900px; margin: 0 auto;">
-      <p><strong>+23</strong> contributions to open-source projects on platforms like GitHub.</p>
-      <p><strong>+3M</strong> monthly active users on platforms I’ve developed.</p>
-      <p><strong>+73</strong> production environments managed with high availability and automatic deployments using CI/CD and Kubernetes.</p>
-      <p><strong>+40%</strong> improvement in development and production times in previous projects thanks to Docker and Kubernetes implementation.</p>
-      <p><strong>Top 89%</strong> of developers on StackOverflow and tech communities.</p>
-    </div>
-  </div>
+</div>
 
-  <div style="margin-top: 50px;">
-    <h2 style="font-family: 'Roboto', sans-serif; font-size: 36px; font-weight: 800; color: #1a202c; margin-bottom: 30px;">Let's Connect</h2>
-    <p style="font-family: 'Roboto', sans-serif; color: #4A5568; font-size: 20px; line-height: 1.8; max-width: 900px;">
-      Always looking for new professional opportunities and innovative projects. If you'd like to see private demos of my projects, feel free to reach out to schedule a real-time demo through my dedicated servers. Let's connect and build the future of technology together!
-    </p>
-    <div style="margin-top: 20px;">
-      <a href="https://linkedin.com/in/yovanenovore" style="font-family: 'Roboto', sans-serif; font-size: 20px; color: #38B2AC; text-decoration: none; margin-right: 20px;">LinkedIn</a>
-      <a href="https://github.com/ynvYauneEnovore" style="font-family: 'Roboto', sans-serif; font-size: 20px; color: #38B2AC; text-decoration: none;">GitHub</a>
-    </div>
-  </div>
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+### 📡 VerifyTrack
+<img src="https://img.shields.io/badge/Status-Production-success?style=flat-square"/> <img src="https://img.shields.io/badge/Users-500K%2B-blue?style=flat-square"/>
+
+**Real-time data processing platform**
+- 🐳 Docker & Kubernetes orchestration
+- 📈 Auto-scaling microservices
+- 🎯 Telecom industry optimization
+- ⚡ 99.9% uptime SLA
+
+</td>
+<td width="50%">
+
+### 🔄 SyncOptimice
+<img src="https://img.shields.io/badge/Status-Active-success?style=flat-square"/> <img src="https://img.shields.io/badge/Deploys-Zero--Downtime-green?style=flat-square"/>
+
+**Enterprise data synchronization**
+- 🔧 Microservices architecture
+- 🚀 CI/CD pipeline automation
+- 🔄 Real-time data sync
+- 📦 Containerized deployment
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🏥 MedTrack
+<img src="https://img.shields.io/badge/Status-Production-success?style=flat-square"/> <img src="https://img.shields.io/badge/Availability-99.99%25-brightgreen?style=flat-square"/>
+
+**Medical data management system**
+- 💊 HIPAA compliant infrastructure
+- 🔐 High security & encryption
+- 📊 Advanced analytics dashboard
+- 🌐 Multi-region deployment
+
+</td>
+<td width="50%">
+
+### 🌟 More Projects
+<img src="https://img.shields.io/badge/Private-Repos-orange?style=flat-square"/>
+
+**Explore my work**
+- 💼 Enterprise solutions
+- 🔬 R&D prototypes
+- 🎨 Open source contributions
+- 📚 Technical documentation
+
+[View Portfolio →](https://github.com/ynvYauneEnovore)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🏆 Achievements & Impact
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+
+| Metric | Achievement | Details |
+|:---:|:---:|:---|
+| 🌟 | **23+** | Open source contributions |
+| 👥 | **3M+** | Monthly active users |
+| 🚀 | **73+** | Production environments |
+| ⚡ | **+40%** | Performance improvement |
+| 🏅 | **Top 11%** | StackOverflow ranking |
+| 💡 | **99.9%** | Average uptime |
+
+<!-- Holopin Badges -->
+<a href="https://holopin.io/@ynvyauneenovore">
+  <img src="https://holopin.me/ynvyauneenovore" alt="Holopin Badges" width="80%"/>
+</a>
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ynvYauneEnovore&theme=tokyonight" width="100%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ynvYauneEnovore&theme=tokyonight" width="32.5%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ynvYauneEnovore&theme=tokyonight" width="32.5%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ynvYauneEnovore&theme=tokyonight&utcOffset=-3" width="32.5%"/>
+
+</div>
+
+---
+
+## 💼 Professional Services
+
+<div align="center">
+
+```mermaid
+mindmap
+  root((Yovan<br/>Enovore))
+    Cloud Architecture
+      AWS Solutions
+      Azure Infrastructure
+      Multi-cloud Strategy
+    DevOps & CI/CD
+      Kubernetes Orchestration
+      Docker Containerization
+      Pipeline Automation
+    Backend Development
+      Microservices Design
+      API Development
+      Database Optimization
+    Consulting
+      Architecture Review
+      Performance Tuning
+      Team Mentoring
+```
+
+</div>
+
+---
+
+## 🎓 Certifications & Skills
+
+<div align="center">
+
+### 🎯 Core Competencies
+
+```diff
++ Cloud Native Architecture (AWS, Azure, GCP)
++ Container Orchestration (Kubernetes, Docker Swarm)
++ Infrastructure as Code (Terraform, Ansible)
++ CI/CD Pipelines (Jenkins, GitLab CI, GitHub Actions)
++ Microservices & Event-Driven Architecture
++ High Availability & Disaster Recovery
++ Performance Optimization & Scalability
++ Security Best Practices & Compliance
+```
+
+### 📚 Currently Learning
+<p>
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white"/>
+</p>
+
+</div>
+
+---
+
+## 📫 Let's Connect!
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
+
+### 🤝 Open to Collaboration
+
+I'm always interested in:
+- 🚀 Innovative cloud-native projects
+- 💡 Open source contributions
+- 🎯 Consulting opportunities
+- 📚 Knowledge sharing & mentoring
+
+### 📧 Get in Touch
+
+<a href="https://linkedin.com/in/yovanenovore">
+  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:contact@yovanenovore.dev">
+  <img src="https://img.shields.io/badge/Email-Drop%20a%20Line-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+---
+
+### 💭 Quote of the Day
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+---
+
+### 👁️ Profile Views
+<img src="https://komarev.com/ghpvc/?username=ynvYauneEnovore&label=Profile%20Views&color=38B2AC&style=for-the-badge" alt="Profile views" />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+
+</div>
+
+---
+
+<div align="center">
+  <i>⭐️ From <a href="https://github.com/ynvYauneEnovore">ynvYauneEnovore</a> - Building the future, one commit at a time</i>
 </div>
