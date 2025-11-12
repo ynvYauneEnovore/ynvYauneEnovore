@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=DevOps+Architect+/+Platform+Engineer;" alt="Typing SVG" />
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Engineer+%F0%9F%9A%80;4%2B+Years+Building+Scalable+Solutions;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=;4%2B+Years+Building+Scalable+Solutions;" alt="Typing SVG" />
   </a>
 </p>
 <br/>
