@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Docker+%7C+[Kubernetes](https://github.com/ DevOps Architect / Platform Engineer )+%7C+Cloud+Architecture" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Docker+%7C+[KubernDevOps Architect / Platform Engineer )+%7C+Cloud+Architecture" alt="Typing SVG" />
   </a>
 </p>
 
