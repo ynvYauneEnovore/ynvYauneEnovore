@@ -12,7 +12,6 @@
 </p>
 <br/>
 
-<!-- Badges profesionales mejorados -->
 <p align="center">
   <img src="https://img.shields.io/badge/☁️_Cloud-Architecture-38B2AC?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/🚀_DevOps-Engineering-FF6B6B?style=for-the-badge&logoColor=white"/>
@@ -20,11 +19,8 @@
   <img src="https://img.shields.io/badge/👥_Users-18%2B-FAA307?style=for-the-badge&logoColor=white"/>
 </p>
 
-[![committers.top badge](https://user-badge.committers.top/bolivia_private/ynvYauneEnovore.svg)](https://user-badge.committers.top/bolivia_private/ynvYauneEnovore)
-
 <br/>
 
-<!-- Social Links optimizados -->
 <p align="center">
   <a href="https://linkedin.com/in/yovanenovore" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -41,6 +37,10 @@
 </p>
 
 <br/>
+
+[![committers.top badge](https://user-badge.committers.top/bolivia_private/ynvYauneEnovore.svg)](https://user-badge.committers.top/bolivia_private/ynvYauneEnovore)
+
+<br />
 
 ---
 
