@@ -20,6 +20,8 @@
   <img src="https://img.shields.io/badge/👥_Users-18%2B-FAA307?style=for-the-badge&logoColor=white"/>
 </p>
 
+[![committers.top badge](https://user-badge.committers.top/bolivia_private/ynvYauneEnovore.svg)](https://user-badge.committers.top/bolivia_private/ynvYauneEnovore)
+
 <br/>
 
 <!-- Social Links optimizados -->
