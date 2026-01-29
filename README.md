@@ -31,9 +31,6 @@
   <a href="mailto:yovanuxf@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://stackoverflow.com/users/ynvYauneEnovore" target="_blank">
-    <img src="https://img.shields.io/badge/Stack_Overflow-Top_11%25-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"/>
-  </a>
 </p>
 
 <br/>
@@ -91,7 +88,7 @@ impact:
 
 ### 🐳 DevOps & Orchestration
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,ansible,jenkins,githubactions,gitlab,grafana,prometheus&theme=dark&perline=9"/>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,githubactions,gitlab,grafana,prometheus&theme=dark&perline=9"/>
 </p>
 
 ### 💻 Programming Languages
@@ -111,7 +108,7 @@ impact:
 
 ### 🗄️ Databases & Cache
 <p>
-  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,redis,elasticsearch,cassandra,dynamodb,sqlite&theme=dark&perline=8"/>
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,redis,sqlite&theme=dark&perline=8"/>
 </p>
 
 ### 🔗 Message Brokers & Streaming
@@ -161,7 +158,7 @@ impact:
 
 ---
 
-## 🏆 Achievements & Impact Metrics
+## 🏆 Achievements
 
 <div align="center">
 
@@ -169,7 +166,7 @@ impact:
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
-<br/><br/>
+<br/>
 
 <!-- Holopin Badges -->
 <a href="https://holopin.io/@ynvyauneenovore">
@@ -227,25 +224,7 @@ mindmap
 
 ---
 
-<br/>
-
-### 📚 Currently Exploring
-
-<p>
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Deno-000000?style=for-the-badge&logo=deno&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Edge_Computing-FF6C37?style=for-the-badge&logo=cloudflare&logoColor=white"/>
-</p>
-
-<br/>
-
-</div>
-
----
-
-## 📫 Let's Connect & Collaborate!
+## 📫 Collaborate!
 
 <div align="center">
 
@@ -253,7 +232,7 @@ mindmap
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
 
-<br/><br/>
+<br/>
 
 ### 🤝 Open to Opportunities
 
@@ -281,9 +260,6 @@ I'm always interested in:
 </a>
 <a href="https://github.com/ynvYauneEnovore" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://stackoverflow.com/users/ynvYauneEnovore" target="_blank">
-  <img src="https://img.shields.io/badge/Stack_Overflow-Ask_Me-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"/>
 </a>
 
 <br/><br/>
@@ -330,6 +306,6 @@ I'm always interested in:
 
 <br/>
 
-<sub>⭐️ From [ynvYauneEnovore](https://github.com/ynvYauneEnovore) | Last updated: 2025</sub>
+<sub>⭐️ From [ynvYauneEnovore](https://github.com/ynvYauneEnovore) | Last updated: 2026</sub>
 
 </div>
