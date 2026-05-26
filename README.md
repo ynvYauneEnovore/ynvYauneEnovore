@@ -1,7 +1,5 @@
 <div align="center">
 
-<!-- Header con mejor espaciado -->
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Yovan%20R.%20Enovore&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
 
@@ -13,10 +11,10 @@
 <br/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/☁️_Cloud-Architecture-38B2AC?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/🚀_DevOps-Engineering-FF6B6B?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/💡_Experience-4%2B_Years-4ECDC4?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/👥_Users-18%2B-FAA307?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/_Cloud-Architecture-38B2AC?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/_DevOps-Engineering-FF6B6B?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/_Experience-4%2B_Years-4ECDC4?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/_Users-18%2B-FAA307?style=for-the-badge&logoColor=white"/>
 </p>
 
 <br/>
@@ -37,86 +35,48 @@
 
 [![committers.top badge](https://user-badge.committers.top/bolivia_private/ynvYauneEnovore.svg)](https://user-badge.committers.top/bolivia_private/ynvYauneEnovore)
 
-<br />
-
----
-
-<br/>
-
-## 🎯 About Me
-
-<br/>
-
-```yaml
-name: Yovan R. Enovore
-role: Software Engineer & Cloud Architect
-location: 🌍 Remote - Available Worldwide of 🇧🇴 Bolivia 
-experience: 4+ years in enterprise solutions
-specialization:
-  - ☁️  Cloud Native Architecture (AWS, Azure, GCP)
-  - 🐳 Container Orchestration (Kubernetes, Docker)
-  - 🔄 CI/CD & DevOps Automation
-  - 🏗️  Microservices & Scalable Systems
-  - 📊 High Availability Infrastructure
-impact:
-  - 18+ monthly active users
-  - 13+ production environments managed
-  - 40% performance improvement achieved
-  - 99.9% average uptime maintained
-```
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-
-<br/>
-
 </div>
 
 ---
 
-## 🛠️ Tech Stack & Expertise
-
 <div align="center">
 
-<br/>
-
-### ☁️ Cloud & Infrastructure
+### Cloud & Infrastructure
 <p>
   <img src="https://skillicons.dev/icons?i=aws,azure,gcp,cloudflare,vercel,netlify&theme=dark&perline=6"/>
 </p>
 
-### 🐳 DevOps & Orchestration
+### DevOps & Orchestration
 <p>
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,githubactions,gitlab,grafana,prometheus&theme=dark&perline=9"/>
 </p>
 
-### 💻 Programming Languages
+### Programming Languages
 <p>
   <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,javascript,typescript,go,rust,java,php&theme=dark&perline=10"/>
 </p>
 
-### 🎨 Frontend & Frameworks
+### Frontend & Frameworks
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxt,angular,svelte,tailwind,bootstrap,materialui&theme=dark&perline=9"/>
 </p>
 
-### 🔧 Backend & APIs
+### Backend & APIs
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,fastapi,django,flask,spring,dotnet,graphql&theme=dark&perline=9"/>
 </p>
 
-### 🗄️ Databases & Cache
+### Databases & Cache
 <p>
   <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,redis,sqlite&theme=dark&perline=8"/>
 </p>
 
-### 🔗 Message Brokers & Streaming
+### Message Brokers & Streaming
 <p>
   <img src="https://skillicons.dev/icons?i=rabbitmq,kafka,nginx&theme=dark&perline=3"/>
 </p>
 
-### 🔨 Development Tools
+### Development Tools
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,vim,postman,linux,bash,powershell,arduino&theme=dark&perline=9"/>
 </p>
@@ -125,18 +85,9 @@ impact:
 
 </div>
 
----
-
-## 📊 GitHub Analytics
-
 <div align="center">
 
 <br/>
-
-<!-- Top Languages -->
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ynvYauneEnovore&layout=compact&theme=radical&hide_border=true&langs_count=12&bg_color=0D1117&title_color=38B2AC&text_color=C9D1D9" alt="Top Languages"/>
-
-<br/><br/>
 
 <!-- Activity Graph mejorado -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ynvYauneEnovore&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=38B2AC&line=38B2AC&point=C9D1D9" width="100%" alt="Contribution Graph"/>
@@ -146,7 +97,7 @@ impact:
 <!-- Profile Summary Cards -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ynvYauneEnovore&theme=github_dark" width="100%" alt="Profile Details"/>
 
-<br/>
+<br/><br/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ynvYauneEnovore&theme=github_dark" width="32%"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ynvYauneEnovore&theme=github_dark" width="32%"/>
@@ -156,129 +107,17 @@ impact:
 
 </div>
 
----
-
-## 🏆 Achievements
-
 <div align="center">
 
-<br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-
-<br/>
-
-<!-- Holopin Badges -->
 <a href="https://holopin.io/@ynvyauneenovore">
   <img src="https://holopin.me/ynvyauneenovore" alt="Holopin Badges" width="85%"/>
 </a>
 
 <br/><br/>
 
-<!-- GitHub Trophies -->
-
-<br/>
-
-</div>
-
----
-
-## 💼 Professional Services & Expertise
-
-<div align="center">
-
-<br/>
-
-```mermaid
-mindmap
-  root((Yovan<br/>Enovore<br/>Senior Engineer))
-    ☁️ Cloud Architecture
-      AWS Solutions Architect
-      Azure Infrastructure
-      GCP Implementation
-      Multi-Cloud Strategy
-      Cost Optimization
-    🐳 DevOps & CI/CD
-      Kubernetes Expert
-      Docker Specialist
-      GitOps Workflows
-      Pipeline Automation
-      Infrastructure as Code
-    💻 Backend Development
-      Microservices Design
-      API Development
-      Database Architecture
-      Performance Tuning
-      Security Best Practices
-    🎯 Consulting Services
-      Architecture Review
-      System Optimization
-      Team Mentoring
-      Technical Leadership
-      Code Quality Audits
-```
-
-<br/>
-
-</div>
-
----
-
-## 📫 Collaborate!
-
-<div align="center">
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
-
-<br/>
-
-### 🤝 Open to Opportunities
-
-<br/>
-
-I'm always interested in:
-
-| 🚀 | 💡 | 🎯 | 📚 |
-|:---:|:---:|:---:|:---:|
-| **Innovative Projects** | **Open Source** | **Consulting** | **Mentoring** |
-| Cloud-native solutions | Community contributions | Architecture review | Knowledge sharing |
-| Scalable systems | Tool development | Performance optimization | Team leadership |
-
-<br/>
-
-### 📧 Get in Touch
-
-<br/>
-
-<a href="https://linkedin.com/in/yovanenovore" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:yovanuxf@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Drop_a_Line-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://github.com/ynvYauneEnovore" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br/><br/>
-
----
-
-<br/>
-
-### 💭 Developer Quote
-
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" alt="Random Dev Quote"/>
 
-<br/>
-
----
-
-<br/>
-
-### 📊 Profile Analytics
+### Profile Analytics
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ynvYauneEnovore&label=Profile%20Views&color=38B2AC&style=for-the-badge" alt="Profile views"/>
@@ -288,17 +127,11 @@ I'm always interested in:
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer"/>
-
-</div>
-
----
-
 <div align="center">
   
 <br/>
 
-**💡 "Building scalable solutions, one commit at a time"**
+** "Building scalable solutions, one commit at a time"**
 
 <br/>
 
@@ -307,5 +140,9 @@ I'm always interested in:
 <br/>
 
 <sub>⭐️ From [ynvYauneEnovore](https://github.com/ynvYauneEnovore) | Last updated: 2026</sub>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer"/>
 
 </div>
