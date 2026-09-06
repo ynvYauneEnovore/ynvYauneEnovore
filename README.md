@@ -1,41 +1,35 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=1&section=header"/>
-
-```
-              ████████████████████████████████████████
-              ████████████████████████████████████████
-              █████
-              █████       ██████   ███▄    █  ▄████▄   ▒█████   ██▀███   ██▓███  
-              █████████  ▒██    ▒  ██ ▀█   █ ▒██▀ ▀█  ▒██▒  ██▒▓██ ▒ ██▒▓██░  ██▒
-              █████████  ░ ▓██▄   ▓██  ▀█ ██▒▒▓█    ▄ ▒██░  ██▒▓██ ░▄█ ▒▓██░ ██▓▒
-              █████        ▒   ██▒▓██▒  ▐▌██▒▒▓▓▄ ▄██▒▒██   ██░▒██▀▀█▄  ▒██▄█▓▒ ▒
-              █████      ▒██████▒▒▒██░   ▓██░▒ ▓███▀ ░░ ████▓▒░░██▓ ▒██▒▒██▒ ░  ░
-              ████████████████████████████████████████
-              ████████████████████████████████████████
-                                    
-                     [ ENCORP GLOBAL INFRASTRUCTURE ]
-                     [ CLEARANCE LEVEL : EXECUTIVE  ]
-```
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:0a0000,60:1a0000,100:E00016&height=200&section=header&text=&fontSize=1"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=900&size=45&duration=3000&pause=1500&color=E00016&center=true&vCenter=true&repeat=true&width=700&height=65&lines=ENCORP+DATACENTER" alt="Name" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=50&duration=3500&pause=1500&color=E00016&center=true&vCenter=true&repeat=true&width=750&height=70&lines=E+N+C+O+R+P" alt="ENCORP" />
+</a>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=12&duration=2000&pause=500&color=555555&center=true&vCenter=true&repeat=true&width=500&height=25&lines=GLOBAL+INFRASTRUCTURE+%7C+EST.+2021" alt="Subtitle" />
+</a>
+
+<br/><br/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=28&duration=3000&pause=1500&color=FFFFFF&center=true&vCenter=true&repeat=true&width=700&height=45&lines=YOVAN+R.+ENOVORE" alt="Name" />
 </a>
 
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&duration=2000&pause=600&color=FFFFFF&center=true&vCenter=true&repeat=true&width=800&height=50&lines=USER:+YOVAN+R.+ENOVORE+[CHIEF_ARCHITECT];STATUS:+AUTHENTICATED;ACCESS:+UNRESTRICTED+PRODUCTION+SYSTEMS;MOTTO:+%22WE+CONTROL+THE+INFRASTRUCTURE.%22" alt="Terminal" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&duration=2000&pause=600&color=E00016&center=true&vCenter=true&repeat=true&width=600&height=40&lines=Chief+Infrastructure+Architect;Security+Operations+Director;Platform+Engineering+Lead" alt="Roles" />
 </a>
 
 <br/><br/>
 
 <p>
-  <img src="https://img.shields.io/badge/INFRASTRUCTURE-ARCHITECT-000000?style=for-the-badge&labelColor=000000&color=E00016"/>
+  <img src="https://img.shields.io/badge/CLEARANCE-OMEGA-E00016?style=for-the-badge&labelColor=000000"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/SECURITY-DIRECTOR-000000?style=for-the-badge&labelColor=000000&color=E00016"/>
+  <img src="https://img.shields.io/badge/DIVISION-CLOUD+%26+SECURITY-E00016?style=for-the-badge&labelColor=000000"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/PLATFORM-ENGINEER-000000?style=for-the-badge&labelColor=000000&color=E00016"/>
+  <img src="https://img.shields.io/badge/SECTOR-BO--1-E00016?style=for-the-badge&labelColor=000000"/>
 </p>
 
 <p>
@@ -48,11 +42,18 @@
   </a>
   &nbsp;
   <a href="mailto:yovanuxf@gmail.com">
-    <img src="https://img.shields.io/badge/CORPORATE_EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=E00016"/>
+    <img src="https://img.shields.io/badge/ENCRYPTED_CONTACT-000000?style=for-the-badge&logo=gmail&logoColor=E00016"/>
+  </a>
+  &nbsp;
+  <a href="https://user-badge.committers.top/bolivia_private/ynvYauneEnovore">
+    <img src="https://img.shields.io/badge/TOP_COMMITTER_BOLIVIA-000000?style=for-the-badge&logoColor=E00016"/>
   </a>
 </p>
 
+[![committers.top badge](https://user-badge.committers.top/bolivia_private/ynvYauneEnovore.svg)](https://user-badge.committers.top/bolivia_private/ynvYauneEnovore)
+
 </div>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
