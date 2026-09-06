@@ -3,23 +3,17 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0a1a0a,60:1B5E20,100:00E676&height=200&section=header&text=&fontSize=1"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=50&duration=3500&pause=1500&color=00E676&center=true&vCenter=true&repeat=true&width=750&height=70&lines=E+N+C+O+R+P" alt="ENCORP" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=40&duration=3500&pause=1500&color=00E676&center=true&vCenter=true&repeat=true&width=850&height=70&lines=Y+O+V+A+N+++E+N+O+V+O+R+E" alt="Name" />
 </a>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=12&duration=2000&pause=500&color=555555&center=true&vCenter=true&repeat=true&width=500&height=25&lines=INFRASTRUCTURE+ENGINEERING+%7C+EST.+2021" alt="Subtitle" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=12&duration=2000&pause=500&color=555555&center=true&vCenter=true&repeat=true&width=500&height=25&lines=DEVOPS+ARCHITECT+%7C+PLATFORM+ENGINEER" alt="Subtitle" />
 </a>
 
 <br/><br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=28&duration=3000&pause=1500&color=FFFFFF&center=true&vCenter=true&repeat=true&width=700&height=45&lines=YOVAN+R.+ENOVORE" alt="Name" />
-</a>
-
-<br/>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&duration=2000&pause=600&color=00E676&center=true&vCenter=true&repeat=true&width=600&height=40&lines=Chief+Infrastructure+Architect;Security+Operations+Director;Platform+Engineering+Lead" alt="Roles" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&duration=2000&pause=600&color=00E676&center=true&vCenter=true&repeat=true&width=600&height=40&lines=Cloud+Infrastructure+Architect;Security+Operations+Engineer;Platform+Engineering+Lead" alt="Roles" />
 </a>
 
 <br/><br/>
@@ -33,6 +27,10 @@
 </p>
 
 <p>
+  <a href="https://yovanenovore.space" target="_blank">
+    <img src="https://img.shields.io/badge/WEBSITE-0d1117?style=for-the-badge&logo=googlechrome&logoColor=00E676"/>
+  </a>
+  &nbsp;
   <a href="https://linkedin.com/in/yovanenovore" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0d1117?style=for-the-badge&logo=linkedin&logoColor=00E676"/>
   </a>
@@ -59,7 +57,7 @@
 <div align="center">
 
 ```
-ENCORP :: SYSTEM PROFILE
+ABOUT
 ```
 
 </div>
@@ -67,9 +65,9 @@ ENCORP :: SYSTEM PROFILE
 ```yaml
 profile:
   name: Yovan R. Enovore
-  role: Chief Infrastructure Architect
-  division: Cloud & Security Operations
-  region: LATAM
+  role: DevOps Architect / Platform Engineer
+  location: Sucre, Bolivia
+  website: yovanenovore.space
   experience: 4+ years in production environments
 
 core_competencies:
@@ -96,8 +94,7 @@ core_competencies:
 
 languages: [Python, Go, Rust, C, C++, TypeScript, JavaScript, Java, C#, PHP]
 databases: [PostgreSQL, MySQL, MongoDB, Redis, SQLite]
-motto: "Infrastructure is code. Code is architecture. Architecture is control."
-status: OPERATIONAL
+status: AVAILABLE
 ```
 
 ---
@@ -105,13 +102,13 @@ status: OPERATIONAL
 <div align="center">
 
 ```
-ENCORP :: ACTIVE OPERATIONS
+CURRENT FOCUS
 ```
 
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&duration=2500&pause=800&color=00E676&center=true&vCenter=true&repeat=true&width=650&height=35&lines=%5BSYS%5D+Architecting+multi-cloud+infrastructure...;%5BSYS%5D+Deploying+zero-trust+security+frameworks...;%5BSYS%5D+Automating+CI%2FCD+pipeline+orchestration..." alt="Operations" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&duration=2500&pause=800&color=00E676&center=true&vCenter=true&repeat=true&width=650&height=35&lines=Building+cloud-native+infrastructure...;Deploying+zero-trust+security+frameworks...;Automating+CI%2FCD+pipeline+orchestration..." alt="Focus" />
 </a>
 
 <p>
@@ -131,7 +128,7 @@ ENCORP :: ACTIVE OPERATIONS
 <div align="center">
 
 ```
-ENCORP :: TECHNOLOGY STACK
+TECHNOLOGY STACK
 ```
 
 <br/>
@@ -254,22 +251,16 @@ ENCORP :: TECHNOLOGY STACK
 <div align="center">
 
 ```
-ENCORP :: PERFORMANCE METRICS
+GITHUB METRICS
 ```
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=ynvYauneEnovore&show_icons=true&bg_color=0d1117&title_color=00E676&text_color=c9d1d9&icon_color=00C853&hide_border=true&cache_seconds=86400" width="49%" alt="GitHub Stats"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ynvYauneEnovore&layout=donut&bg_color=0d1117&title_color=00E676&text_color=c9d1d9&hide_border=true&cache_seconds=86400" width="41%" alt="Top Languages"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ynvYauneEnovore&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=15" width="95%" alt="Trophies"/>
 
 <br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=ynvYauneEnovore&hide_border=true&ring=00E676&fire=00C853&currStreakLabel=00E676&sideLabels=FFFFFF&dates=AAAAAA&currStreakNum=FFFFFF&sideNums=FFFFFF&stroke=1B5E20&background=0d1117" width="70%" alt="GitHub Streak"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ynvYauneEnovore&bg_color=0d1117&color=00E676&line=00C853&point=FFFFFF&area=true&area_color=1B5E20&hide_border=true" width="95%" alt="Activity Graph"/>
 
 <br/><br/>
 
@@ -304,7 +295,7 @@ ENCORP :: PERFORMANCE METRICS
 <div align="center">
 
 ```
-ENCORP :: API TELEMETRY
+API TELEMETRY
 ```
 
 <br/>
@@ -338,7 +329,7 @@ ENCORP :: API TELEMETRY
 <div align="center">
 
 ```
-ENCORP :: VERIFIED BADGES
+ACHIEVEMENTS
 ```
 
 <br/>
@@ -356,7 +347,7 @@ ENCORP :: VERIFIED BADGES
 <div align="center">
 
 ```
-ENCORP :: CONTRIBUTION MAP
+CONTRIBUTION MAP
 ```
 
 <br/>
@@ -378,7 +369,7 @@ ENCORP :: CONTRIBUTION MAP
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=400&size=11&duration=2000&pause=500&color=00E676&center=true&vCenter=true&repeat=true&width=750&height=25&lines=%5B+ENCORP+%3A%3A+STATUS%3A+ONLINE+%7C+UPTIME%3A+1825d+%7C+SERVICES%3A+OPERATIONAL+%7C+ENCRYPTION%3A+AES-256+%5D" alt="Status" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=400&size=11&duration=2000&pause=500&color=00E676&center=true&vCenter=true&repeat=true&width=750&height=25&lines=%5B+STATUS%3A+ONLINE+%7C+EXPERIENCE%3A+4%2B+YEARS+%7C+STACK%3A+FULL+%7C+OPEN+TO%3A+COLLABORATION+%5D" alt="Status" />
 </a>
 
 <br/><br/>
