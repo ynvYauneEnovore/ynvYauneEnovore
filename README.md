@@ -147,7 +147,7 @@ status: operational
 <br/>
 
 <details open>
-<summary>&nbsp;☁️ <b>CLOUD & INFRASTRUCTURE</b>&nbsp;&nbsp;<code>6 services</code></summary>
+<summary>&nbsp;[+] <b>CLOUD & INFRASTRUCTURE</b>&nbsp;&nbsp;<code>6 services</code></summary>
 <br/>
 <p>
   <img src="https://skillicons.dev/icons?i=aws,azure,gcp,cloudflare,vercel,netlify&theme=dark&perline=6"/>
@@ -160,7 +160,7 @@ status: operational
 </details>
 
 <details open>
-<summary>&nbsp;⚙️ <b>DEVOPS & ORCHESTRATION</b>&nbsp;&nbsp;<code>9 tools</code></summary>
+<summary>&nbsp;[+] <b>DEVOPS & ORCHESTRATION</b>&nbsp;&nbsp;<code>9 tools</code></summary>
 <br/>
 <p>
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,ansible,githubactions,gitlab,jenkins,grafana,prometheus&theme=dark&perline=9"/>
@@ -168,7 +168,7 @@ status: operational
 </details>
 
 <details open>
-<summary>&nbsp;🔒 <b>SECURITY & PRIVACY</b>&nbsp;&nbsp;<code>operations</code></summary>
+<summary>&nbsp;[+] <b>SECURITY & PRIVACY</b>&nbsp;&nbsp;<code>operations</code></summary>
 <br/>
 <p>
   <img src="https://img.shields.io/badge/Tor_Network-7D4698?style=for-the-badge&logo=torproject&logoColor=white&labelColor=000000"/>
@@ -194,7 +194,7 @@ status: operational
 </details>
 
 <details open>
-<summary>&nbsp;🖥️ <b>SERVER & NETWORK</b>&nbsp;&nbsp;<code>hardened</code></summary>
+<summary>&nbsp;[+] <b>SERVER & NETWORK</b>&nbsp;&nbsp;<code>hardened</code></summary>
 <br/>
 <p>
   <img src="https://skillicons.dev/icons?i=linux,debian,arch,nginx,bash&theme=dark&perline=5"/>
@@ -208,7 +208,7 @@ status: operational
 </details>
 
 <details open>
-<summary>&nbsp;💻 <b>PROGRAMMING LANGUAGES</b>&nbsp;&nbsp;<code>10 langs</code></summary>
+<summary>&nbsp;[+] <b>PROGRAMMING LANGUAGES</b>&nbsp;&nbsp;<code>10 langs</code></summary>
 <br/>
 <p>
   <img src="https://skillicons.dev/icons?i=python,go,rust,c,cpp,typescript,javascript,java,cs,php&theme=dark&perline=10"/>
@@ -216,7 +216,7 @@ status: operational
 </details>
 
 <details open>
-<summary>&nbsp;🎨 <b>FRONTEND & FRAMEWORKS</b>&nbsp;&nbsp;<code>9 frameworks</code></summary>
+<summary>&nbsp;[+] <b>FRONTEND & FRAMEWORKS</b>&nbsp;&nbsp;<code>9 frameworks</code></summary>
 <br/>
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxt,angular,svelte,tailwind,bootstrap,materialui&theme=dark&perline=9"/>
@@ -224,7 +224,7 @@ status: operational
 </details>
 
 <details open>
-<summary>&nbsp;🔧 <b>BACKEND & APIs</b>&nbsp;&nbsp;<code>9 frameworks</code></summary>
+<summary>&nbsp;[+] <b>BACKEND & APIs</b>&nbsp;&nbsp;<code>9 frameworks</code></summary>
 <br/>
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,fastapi,django,flask,spring,dotnet,graphql&theme=dark&perline=9"/>
@@ -232,7 +232,7 @@ status: operational
 </details>
 
 <details open>
-<summary>&nbsp;🗄️ <b>DATABASES, CACHE & MESSAGING</b>&nbsp;&nbsp;<code>8 systems</code></summary>
+<summary>&nbsp;[+] <b>DATABASES, CACHE & MESSAGING</b>&nbsp;&nbsp;<code>8 systems</code></summary>
 <br/>
 <p>
   <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,redis,sqlite,rabbitmq,kafka,nginx&theme=dark&perline=8"/>
@@ -240,10 +240,46 @@ status: operational
 </details>
 
 <details open>
-<summary>&nbsp;🛠️ <b>DEVELOPMENT TOOLS</b>&nbsp;&nbsp;<code>9 tools</code></summary>
+<summary>&nbsp;[+] <b>DEVELOPMENT TOOLS</b>&nbsp;&nbsp;<code>9 tools</code></summary>
 <br/>
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,vim,postman,linux,bash,powershell,arduino&theme=dark&perline=9"/>
+</p>
+</details>
+
+<details open>
+<summary>&nbsp;[+] <b>OPERATING SYSTEMS</b>&nbsp;&nbsp;<code>hardened</code></summary>
+<br/>
+<p>
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white&labelColor=000000"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white&labelColor=000000"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Kali-557C94?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=000000"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white&labelColor=000000"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=centos&logoColor=white&labelColor=000000"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Tails-56347C?style=for-the-badge&logo=tails&logoColor=white&labelColor=000000"/>
+</p>
+</details>
+
+<details open>
+<summary>&nbsp;[+] <b>METHODOLOGY & FRAMEWORKS</b>&nbsp;&nbsp;<code>standards</code></summary>
+<br/>
+<p>
+  <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=00FF41"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/MITRE_ATT%26CK-000000?style=for-the-badge&logoColor=00FF41"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/NIST-000000?style=for-the-badge&logoColor=00FF41"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/PTES-000000?style=for-the-badge&logoColor=00FF41"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/ISO_27001-000000?style=for-the-badge&logoColor=00FF41"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/CIS_Benchmarks-000000?style=for-the-badge&logoColor=00FF41"/>
 </p>
 </details>
 
@@ -343,10 +379,10 @@ status: operational
 
 <table>
 <tr>
-<td align="center"><b>🏗️ Architecture</b></td>
-<td align="center"><b>🔒 Offensive Security</b></td>
-<td align="center"><b>🛡️ Defensive Security</b></td>
-<td align="center"><b>🌐 Network</b></td>
+<td align="center"><b>[ARCHITECTURE]</b></td>
+<td align="center"><b>[OFFENSIVE]</b></td>
+<td align="center"><b>[DEFENSIVE]</b></td>
+<td align="center"><b>[NETWORK]</b></td>
 </tr>
 <tr>
 <td align="center">
@@ -389,22 +425,6 @@ status: operational
 <a href="https://holopin.io/@ynvyauneenovore">
   <img src="https://holopin.me/ynvyauneenovore" alt="Holopin Badges" width="85%"/>
 </a>
-
-<br/><br/>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-<div align="center">
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ynvYauneEnovore/ynvYauneEnovore/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ynvYauneEnovore/ynvYauneEnovore/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/ynvYauneEnovore/ynvYauneEnovore/output/github-snake-dark.svg" width="100%"/>
-</picture>
 
 <br/><br/>
 
