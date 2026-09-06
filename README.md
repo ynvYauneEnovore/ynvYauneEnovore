@@ -256,9 +256,7 @@ GITHUB METRICS
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=ynvYauneEnovore&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=15" width="95%" alt="Trophies"/>
 
-<br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=ynvYauneEnovore&hide_border=true&ring=00E676&fire=00C853&currStreakLabel=00E676&sideLabels=FFFFFF&dates=AAAAAA&currStreakNum=FFFFFF&sideNums=FFFFFF&stroke=1B5E20&background=0d1117" width="70%" alt="GitHub Streak"/>
 
