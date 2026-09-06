@@ -2,7 +2,20 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=1&section=header"/>
 
-<br/><br/>
+```
+                         ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+                     ▄▀▀                   ▀▀▄
+                   ▄▀                         ▀▄
+                  █    ▄▄▄▄▄▄▄   ▄▄▄▄▄▄▄      █
+                  █   █       █ █       █     █
+                  █    ▀▀▀▀▀▀▀   ▀▀▀▀▀▀▀      █
+                  █         ▄▄█▄▄             █
+                   █       █     █           █
+                    ▀▄      ▀▀▀▀▀          ▄▀
+                      ▀▀▄▄▄         ▄▄▄▀▀
+                           ▀▀▀▀▀▀▀▀▀
+           [ ACCESS GRANTED ] - [ CLEARANCE: ROOT ]
+```
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=40&duration=3000&pause=1500&color=00FF41&center=true&vCenter=true&repeat=true&width=700&height=60&lines=%3E_+YOVAN+R.+ENOVORE" alt="Name" />
@@ -11,7 +24,7 @@
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=400&size=13&duration=2000&pause=600&color=00FF41&center=true&vCenter=true&repeat=true&width=850&height=50&lines=%5Broot%40enovore+~%5D%23+cat+%2Fetc%2Fmotd+→+Infrastructure+Architect+%7C+Security+Researcher+%7C+Server+Admin;%5Broot%40enovore+~%5D%23+nmap+-sS+-O+target+→+Scanning+networks+since+2021;%5Broot%40enovore+~%5D%23+tor+--verify+→+.onion+services+operational;%5Broot%40enovore+~%5D%23+uptime+→+1460%2B+days+in+production" alt="Terminal" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&duration=2000&pause=600&color=00FF41&center=true&vCenter=true&repeat=true&width=600&height=50&lines=root%40enovore+%7E+%24+nmap+target;root%40enovore+%7E+%24+tor+--verify;root%40enovore+%7E+%24+uptime+1460d" alt="Terminal" />
 </a>
 
 <br/><br/>
@@ -47,6 +60,34 @@
 </p>
 
 [![committers.top badge](https://user-badge.committers.top/bolivia_private/ynvYauneEnovore.svg)](https://user-badge.committers.top/bolivia_private/ynvYauneEnovore)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+<div align="center">
+
+```
+[root@enovore ~]# ps aux | grep active_operations
+```
+
+<br/>
+
+<p>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&repeat=true&width=650&height=35&lines=%F0%9F%94%A5+Currently+hacking+on+cloud+infrastructure;%F0%9F%94%A5+Deploying+.onion+hidden+services;%F0%9F%94%A5+Building+zero-trust+networks" alt="Currently" />
+  </a>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/🔴_LIVE-Kubernetes_Cluster-000000?style=for-the-badge&labelColor=000000&color=00FF41"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/🔴_LIVE-Tor_Hidden_Service-000000?style=for-the-badge&labelColor=000000&color=7D4698"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/🔴_LIVE-CI%2FCD_Pipeline-000000?style=for-the-badge&labelColor=000000&color=00FF41"/>
+</p>
+
+<br/>
 
 </div>
 
@@ -526,7 +567,13 @@ status: operational
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=400&size=10&duration=1500&pause=400&color=333333&center=true&vCenter=true&repeat=true&width=800&height=20&lines=%5Broot%40enovore+~%5D%23+shred+-vfz+-n+5+%2Fvar%2Flog%2F*+→+Covering+tracks...;%5Broot%40enovore+~%5D%23+iptables+-P+INPUT+DROP+→+Firewall+engaged;%5Broot%40enovore+~%5D%23+tor+--hash-password+→+Hidden+service+configured;%5Broot%40enovore+~%5D%23+proxychains+nmap+-sT+→+Scanning+through+3+proxies" alt="Ghost" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=10&duration=1500&pause=400&color=1a1a1a&center=true&vCenter=true&repeat=true&width=500&height=20&lines=shred+-vfz+%2Fvar%2Flog%2F*;iptables+-P+INPUT+DROP;proxychains+nmap+-sT+target" alt="ghost" />
+</a>
+
+<br/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&duration=4000&pause=2000&color=00FF41&center=true&vCenter=true&repeat=true&width=400&height=35&lines=%2F%2F+HACK+THE+PLANET+%2F%2F" alt="hack" />
 </a>
 
 <br/><br/>
