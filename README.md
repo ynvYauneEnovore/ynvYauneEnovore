@@ -1,34 +1,30 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,50:0d1b2a,100:1b2838&height=300&section=header&text=YOVAN%20R.%20ENOVORE&fontSize=52&fontColor=64FFDA&animation=fadeIn&fontAlignY=38&desc=%E2%96%88%20DevOps%20Architect%20%E2%96%88%20Platform%20Engineer%20%E2%96%88%20Cloud%20Specialist%20%E2%96%88&descSize=14&descColor=8892b0&descAlignY=58"/>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=64FFDA&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%24+whoami+%E2%86%92+DevOps+Architect+%7C+Cloud+Engineer;%24+uptime+%E2%86%92+4%2B+years+building+production+infrastructure;%24+cat+mission.txt+%E2%86%92+Automate+everything+that+breathes" alt="Typing SVG" />
-  </a>
-</p>
-
-<table>
-<tr>
-<td align="center" width="180">
-<img src="https://img.shields.io/badge/☁️_CLOUD-ARCHITECTURE-64FFDA?style=flat-square&labelColor=0d1117"/>
-</td>
-<td align="center" width="180">
-<img src="https://img.shields.io/badge/⚙️_DEVOPS-ENGINEERING-64FFDA?style=flat-square&labelColor=0d1117"/>
-</td>
-<td align="center" width="180">
-<img src="https://img.shields.io/badge/📊_EXPERIENCE-4%2B_YEARS-64FFDA?style=flat-square&labelColor=0d1117"/>
-</td>
-<td align="center" width="180">
-<img src="https://img.shields.io/badge/🚀_PROJECTS-18%2B-64FFDA?style=flat-square&labelColor=0d1117"/>
-</td>
-<td align="center" width="180">
-<img src="https://img.shields.io/badge/🌐_INFRA-MANAGED-64FFDA?style=flat-square&labelColor=0d1117"/>
-</td>
-</tr>
-</table>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=200&section=header&text=&fontSize=1"/>
 
 <br/>
+
+<img src="https://img.shields.io/badge/YOVAN_R._ENOVORE-64FFDA?style=for-the-badge&labelColor=0d1117&color=0d1117" height="1"/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=36&duration=3500&pause=1000&color=64FFDA&center=true&vCenter=true&repeat=true&width=650&height=70&lines=YOVAN+R.+ENOVORE" alt="Name" />
+</a>
+
+<br/>
+
+<img src="https://img.shields.io/badge/DevOps_Architect-0d1117?style=flat-square&logoColor=64FFDA"/>
+<img src="https://img.shields.io/badge/│-0d1117?style=flat-square"/>
+<img src="https://img.shields.io/badge/Platform_Engineer-0d1117?style=flat-square&logoColor=64FFDA"/>
+<img src="https://img.shields.io/badge/│-0d1117?style=flat-square"/>
+<img src="https://img.shields.io/badge/Cloud_Specialist-0d1117?style=flat-square&logoColor=64FFDA"/>
+
+<br/><br/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=8892B0&center=true&vCenter=true&repeat=true&width=700&height=50&lines=%24+whoami+→+Senior+DevOps+%7C+Cloud+Architect+%7C+Bolivia+🇧🇴;%24+uptime+→+4%2B+years+building+production+infrastructure;%24+cat+mission.txt+→+Automate+everything+that+breathes" alt="Typing SVG" />
+</a>
+
+<br/><br/>
 
 <p align="center">
   <a href="https://linkedin.com/in/yovanenovore" target="_blank">
@@ -42,11 +38,28 @@
   <a href="mailto:yovanuxf@gmail.com">
     <img src="https://img.shields.io/badge/-EMAIL-0d1117?style=for-the-badge&logo=gmail&logoColor=64FFDA"/>
   </a>
-  &nbsp;
-  <a href="https://user-badge.committers.top/bolivia_private/ynvYauneEnovore" target="_blank">
-    <img src="https://img.shields.io/badge/-TOP_COMMITTER_🇧🇴-0d1117?style=for-the-badge&logoColor=64FFDA"/>
-  </a>
 </p>
+
+<br/>
+
+<table>
+<tr>
+<td align="center" width="160">
+<img src="https://img.shields.io/badge/☁️_CLOUD-64FFDA?style=flat-square&labelColor=0d1117"/>
+</td>
+<td align="center" width="160">
+<img src="https://img.shields.io/badge/⚙️_DEVOPS-64FFDA?style=flat-square&labelColor=0d1117"/>
+</td>
+<td align="center" width="160">
+<img src="https://img.shields.io/badge/📊_4%2B_YEARS-64FFDA?style=flat-square&labelColor=0d1117"/>
+</td>
+<td align="center" width="160">
+<img src="https://img.shields.io/badge/🚀_18%2B_PROJECTS-64FFDA?style=flat-square&labelColor=0d1117"/>
+</td>
+</tr>
+</table>
+
+<br/>
 
 [![committers.top badge](https://user-badge.committers.top/bolivia_private/ynvYauneEnovore.svg)](https://user-badge.committers.top/bolivia_private/ynvYauneEnovore)
 
@@ -55,21 +68,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <div align="center">
-
-```
-┌──────────────────────────────────────────────────────────────────┐
-│                                                                  │
-│   ██████╗ ██████╗  ██████╗ ███████╗██╗██╗     ███████╗          │
-│   ██╔══██╗██╔══██╗██╔═══██╗██╔════╝██║██║     ██╔════╝          │
-│   ██████╔╝██████╔╝██║   ██║█████╗  ██║██║     █████╗            │
-│   ██╔═══╝ ██╔══██╗██║   ██║██╔══╝  ██║██║     ██╔══╝            │
-│   ██║     ██║  ██║╚██████╔╝██║     ██║███████╗███████╗          │
-│   ╚═╝     ╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝╚══════╝╚══════╝          │
-│                                                                  │
-└──────────────────────────────────────────────────────────────────┘
-```
-
-</div>
 
 ```yaml
 name: Yovan R. Enovore
@@ -87,20 +85,17 @@ currently_learning: [Platform Engineering, FinOps, Service Mesh]
 philosophy: "If it can be automated, it should be automated."
 ```
 
+</div>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <div align="center">
 
-```
-┌──────────────────────────────────────────────────────────────────┐
-│  $ cat /etc/tech-stack/arsenal.conf                              │
-│  ═══════════════════════════════════════                          │
-│  [TECHNOLOGY ARSENAL]                                            │
-│  status: LOADED                                                  │
-└──────────────────────────────────────────────────────────────────┘
-```
-
 <br/>
+
+<img src="https://img.shields.io/badge/⟐_TECHNOLOGY_ARSENAL_⟐-64FFDA?style=for-the-badge&labelColor=0d1117&color=0d1117" alt="Tech Stack"/>
+
+<br/><br/>
 
 <details open>
 <summary>&nbsp;<b>☁️ CLOUD & INFRASTRUCTURE</b>&nbsp;&nbsp;<code>[ 6 SERVICES ]</code></summary>
@@ -120,11 +115,6 @@ philosophy: "If it can be automated, it should be automated."
 <br/>
 <p>
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,ansible,githubactions,gitlab,jenkins,grafana,prometheus&theme=dark&perline=9"/>
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?style=flat-square&labelColor=0d1117&logo=kubernetes&logoColor=326CE5"/>
-  <img src="https://img.shields.io/badge/Terraform-IaC-7B42BC?style=flat-square&labelColor=0d1117&logo=terraform&logoColor=7B42BC"/>
-  <img src="https://img.shields.io/badge/Docker-Containers-2496ED?style=flat-square&labelColor=0d1117&logo=docker&logoColor=2496ED"/>
 </p>
 </details>
 
@@ -174,16 +164,11 @@ philosophy: "If it can be automated, it should be automated."
 
 <div align="center">
 
-```
-┌──────────────────────────────────────────────────────────────────┐
-│  $ kubectl get metrics --namespace=github                        │
-│  ═══════════════════════════════════════                          │
-│  [GITHUB ANALYTICS]                                              │
-│  status: LIVE                                                    │
-└──────────────────────────────────────────────────────────────────┘
-```
-
 <br/>
+
+<img src="https://img.shields.io/badge/⟐_GITHUB_ANALYTICS_⟐-64FFDA?style=for-the-badge&labelColor=0d1117&color=0d1117" alt="Analytics"/>
+
+<br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=ynvYauneEnovore&theme=transparent&hide_border=true&ring=64FFDA&fire=64FFDA&currStreakLabel=64FFDA&sideLabels=8892B0&dates=545454&currStreakNum=E0E0E0&sideNums=E0E0E0&background=0D1117" width="70%" alt="GitHub Streak"/>
 
@@ -209,41 +194,11 @@ philosophy: "If it can be automated, it should be automated."
 
 <div align="center">
 
-```
-┌──────────────────────────────────────────────────────────────────┐
-│  $ watch -n 1 'cat /var/log/contributions.log'                   │
-│  ═══════════════════════════════════════                          │
-│  [CONTRIBUTION SNAKE]                                            │
-│  status: HUNTING                                                 │
-└──────────────────────────────────────────────────────────────────┘
-```
-
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ynvYauneEnovore/ynvYauneEnovore/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ynvYauneEnovore/ynvYauneEnovore/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/ynvYauneEnovore/ynvYauneEnovore/output/github-snake-dark.svg" width="100%"/>
-</picture>
+<img src="https://img.shields.io/badge/⟐_ACHIEVEMENTS_&_RECOGNITION_⟐-64FFDA?style=for-the-badge&labelColor=0d1117&color=0d1117" alt="Achievements"/>
 
 <br/><br/>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-<div align="center">
-
-```
-┌──────────────────────────────────────────────────────────────────┐
-│  $ docker ps --format "table {{.Names}}\t{{.Status}}"            │
-│  ═══════════════════════════════════════                          │
-│  [ACHIEVEMENTS & RECOGNITION]                                    │
-│  status: RUNNING                                                 │
-└──────────────────────────────────────────────────────────────────┘
-```
-
-<br/>
 
 <a href="https://holopin.io/@ynvyauneenovore">
   <img src="https://holopin.me/ynvyauneenovore" alt="Holopin Badges" width="85%"/>
@@ -256,15 +211,6 @@ philosophy: "If it can be automated, it should be automated."
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <div align="center">
-
-```
-┌──────────────────────────────────────────────────────────────────┐
-│  $ tail -f /var/log/profile_analytics.log                        │
-│  ═══════════════════════════════════════                          │
-│  [REAL-TIME ANALYTICS]                                           │
-│  status: STREAMING                                               │
-└──────────────────────────────────────────────────────────────────┘
-```
 
 <br/>
 
@@ -282,25 +228,10 @@ philosophy: "If it can be automated, it should be automated."
 
 <br/><br/>
 
-```
- ╔═══════════════════════════════════════════════════════════════════════╗
- ║                                                                     ║
- ║   > Infrastructure is code.                                         ║
- ║   > Code is craft.                                                  ║
- ║   > Craft is excellence.                                            ║
- ║   > Excellence is the standard.                                     ║
- ║                                                                     ║
- ║   STATUS: ONLINE | UPTIME: 99.99% | REGION: BO-SOUTH-1             ║
- ║                                                                     ║
- ╚═══════════════════════════════════════════════════════════════════════╝
-```
-
-<br/>
-
-<sub>⚡ Engineered by <b>Yovan R. Enovore</b> — © 2026 | All systems operational</sub>
+<sub>⚡ Engineered by <b>Yovan R. Enovore</b> — © 2026 | <code>STATUS: ONLINE</code> | <code>UPTIME: 99.99%</code></sub>
 
 <br/><br/>
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:0d1b2a,100:1b2838&height=150&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=footer"/>
