@@ -392,6 +392,7 @@ LATEST ARTICLES
 <br/>
 
 <!-- BLOG-POST-LIST:START -->
+- [hi test](https://dev.to/ynvyauneenovore/hi-test-4904)
 <!-- BLOG-POST-LIST:END -->
 
 <br/><br/>
