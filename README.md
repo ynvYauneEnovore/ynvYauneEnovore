@@ -1,46 +1,48 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0a0a0a,100:000000&height=220&section=header&text=&fontSize=1"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=1&section=header"/>
+
+<br/><br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=42&duration=3500&pause=1000&color=00FF41&center=true&vCenter=true&repeat=true&width=700&height=70&lines=YOVAN+R.+ENOVORE" alt="Name" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=40&duration=3000&pause=1500&color=00FF41&center=true&vCenter=true&repeat=true&width=700&height=60&lines=%3E_+YOVAN+R.+ENOVORE" alt="Name" />
 </a>
 
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=14&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&repeat=true&width=800&height=45&lines=▰▰▰+DevOps+Architect+▰+Platform+Engineer+▰+Cloud+Specialist+▰▰▰;▰▰▰+Building+Production-Grade+Infrastructure+at+Scale+▰▰▰;▰▰▰+%24+sudo+rm+-rf+manual_processes+▰▰▰" alt="Subtitle" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=400&size=13&duration=2000&pause=600&color=00FF41&center=true&vCenter=true&repeat=true&width=850&height=50&lines=%5Broot%40enovore+~%5D%23+cat+%2Fetc%2Fmotd+→+Infrastructure+Architect+%7C+Security+Researcher+%7C+Server+Admin;%5Broot%40enovore+~%5D%23+nmap+-sS+-O+target+→+Scanning+networks+since+2021;%5Broot%40enovore+~%5D%23+tor+--verify+→+.onion+services+operational;%5Broot%40enovore+~%5D%23+uptime+→+1460%2B+days+in+production" alt="Terminal" />
 </a>
 
 <br/><br/>
 
 <p>
-  <img src="https://img.shields.io/badge/⚡_CLOUD-ARCHITECT-000000?style=for-the-badge&labelColor=000000&color=00FF41"/>
+  <img src="https://img.shields.io/badge/INFRASTRUCTURE-ARCHITECT-000000?style=flat-square&labelColor=000000&color=0a0a0a&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMCIgaGVpZ2h0PSIxMCI+PHJlY3Qgd2lkdGg9IjEwIiBoZWlnaHQ9IjEwIiBmaWxsPSIjMDBGRjQxIi8+PC9zdmc+"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/⚡_DEVOPS-ENGINEER-000000?style=for-the-badge&labelColor=000000&color=00FF41"/>
+  <img src="https://img.shields.io/badge/SECURITY-RESEARCHER-000000?style=flat-square&labelColor=000000&color=0a0a0a&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMCIgaGVpZ2h0PSIxMCI+PHJlY3Qgd2lkdGg9IjEwIiBoZWlnaHQ9IjEwIiBmaWxsPSIjMDBGRjQxIi8+PC9zdmc+"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/⚡_4%2B_YEARS-EXPERIENCE-000000?style=for-the-badge&labelColor=000000&color=00FF41"/>
+  <img src="https://img.shields.io/badge/SERVER-ADMINISTRATOR-000000?style=flat-square&labelColor=000000&color=0a0a0a&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMCIgaGVpZ2h0PSIxMCI+PHJlY3Qgd2lkdGg9IjEwIiBoZWlnaHQ9IjEwIiBmaWxsPSIjMDBGRjQxIi8+PC9zdmc+"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/⚡_18%2B-PROJECTS-000000?style=for-the-badge&labelColor=000000&color=00FF41"/>
+  <img src="https://img.shields.io/badge/.ONION-SERVICES-000000?style=flat-square&labelColor=000000&color=0a0a0a&logo=torproject&logoColor=7D4698"/>
 </p>
 
 <br/>
 
 <p>
   <a href="https://linkedin.com/in/yovanenovore" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41"/>
+    <img src="https://img.shields.io/badge/LINKEDIN-000000?style=flat-square&logo=linkedin&logoColor=00FF41"/>
   </a>
   &nbsp;
   <a href="https://github.com/ynvYauneEnovore" target="_blank">
-    <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=00FF41"/>
+    <img src="https://img.shields.io/badge/GITHUB-000000?style=flat-square&logo=github&logoColor=00FF41"/>
   </a>
   &nbsp;
   <a href="mailto:yovanuxf@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=00FF41"/>
+    <img src="https://img.shields.io/badge/PGP_CONTACT-000000?style=flat-square&logo=gmail&logoColor=00FF41"/>
   </a>
   &nbsp;
   <a href="https://user-badge.committers.top/bolivia_private/ynvYauneEnovore">
-    <img src="https://img.shields.io/badge/🇧🇴_TOP_COMMITTER-000000?style=for-the-badge&logoColor=00FF41"/>
+    <img src="https://img.shields.io/badge/TOP_COMMITTER_🇧🇴-000000?style=flat-square&logoColor=00FF41"/>
   </a>
 </p>
 
@@ -52,37 +54,56 @@
 
 <div align="center">
 
-```yaml
-name: Yovan R. Enovore
-role: DevOps Architect & Platform Engineer
-location: Bolivia 🇧🇴
-experience: 4+ years in production environments
-focus:
-  - Cloud-Native Infrastructure (AWS, Azure, GCP)
-  - Container Orchestration (Kubernetes, Docker Swarm)
-  - Infrastructure as Code (Terraform, Pulumi, Ansible)
-  - CI/CD Pipeline Architecture (GitHub Actions, GitLab CI, Jenkins)
-  - Observability & Monitoring (Grafana, Prometheus, ELK Stack)
-  - Microservices & Event-Driven Architecture
-  - Security & Compliance Automation
-languages: [Python, Go, TypeScript, Rust, Java, C#, C/C++, PHP, JavaScript]
-databases: [PostgreSQL, MySQL, MongoDB, Redis, SQLite]
-messaging: [RabbitMQ, Apache Kafka, NGINX]
-currently_learning: [Platform Engineering, FinOps, Service Mesh, GitOps]
-philosophy: "If it can be automated, it should be automated."
+```
+[root@enovore ~]# cat /etc/profile.d/identity.conf
 ```
 
 </div>
+
+```yaml
+identity:
+  name: Yovan R. Enovore
+  alias: ynvYauneEnovore
+  role: Infrastructure Architect & Security Researcher
+  location: Bolivia 🇧🇴
+  clearance: Unrestricted
+  experience: 4+ years managing production & hidden services
+
+operations:
+  cloud_infrastructure:
+    - AWS / Azure / GCP — Multi-cloud production environments
+    - Kubernetes clusters — Container orchestration at scale
+    - Terraform / Pulumi / Ansible — Infrastructure as Code
+  security_operations:
+    - Tor hidden services (.onion) — Deployment & maintenance
+    - Penetration testing — Network reconnaissance & exploitation
+    - Cryptography — End-to-end encryption implementation
+    - OPSEC — Operational security & threat mitigation
+  server_administration:
+    - Bare metal & VPS — Debian, Arch, CentOS hardened servers
+    - Reverse proxying — NGINX, HAProxy, Traefik
+    - DNS management — BIND, Unbound, DNS-over-HTTPS
+    - Firewall engineering — iptables, nftables, pf
+  devops_pipeline:
+    - CI/CD — GitHub Actions, GitLab CI, Jenkins
+    - Monitoring — Grafana, Prometheus, ELK Stack
+    - Message brokers — RabbitMQ, Apache Kafka
+
+languages: [Python, Go, Rust, C, C++, Bash, TypeScript, Java, C#, PHP]
+databases: [PostgreSQL, MySQL, MongoDB, Redis, SQLite]
+philosophy: "The infrastructure you can't see is the infrastructure that works."
+status: operational
+```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <div align="center">
 
+```
+[root@enovore ~]# ls -la /arsenal/
+```
+
 <br/>
-
-<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━_⚡_TECHNOLOGY_ARSENAL_⚡_━━━━━━━━━━━━━━━━━━━━-00FF41?style=for-the-badge&labelColor=000000&color=000000"/>
-
-<br/><br/>
 
 <details open>
 <summary>&nbsp;☁️ <b>CLOUD & INFRASTRUCTURE</b>&nbsp;&nbsp;<code>6 services</code></summary>
@@ -91,9 +112,9 @@ philosophy: "If it can be automated, it should be automated."
   <img src="https://skillicons.dev/icons?i=aws,azure,gcp,cloudflare,vercel,netlify&theme=dark&perline=6"/>
 </p>
 <p>
-  <img src="https://img.shields.io/badge/AWS-Production_Ready-000000?style=flat-square&logo=amazonwebservices&logoColor=FF9900"/>
-  <img src="https://img.shields.io/badge/Azure-Production_Ready-000000?style=flat-square&logo=microsoftazure&logoColor=0078D4"/>
-  <img src="https://img.shields.io/badge/GCP-Production_Ready-000000?style=flat-square&logo=googlecloud&logoColor=4285F4"/>
+  <img src="https://img.shields.io/badge/AWS-PRODUCTION-000000?style=flat-square&logo=amazonwebservices&logoColor=FF9900"/>
+  <img src="https://img.shields.io/badge/Azure-PRODUCTION-000000?style=flat-square&logo=microsoftazure&logoColor=0078D4"/>
+  <img src="https://img.shields.io/badge/GCP-PRODUCTION-000000?style=flat-square&logo=googlecloud&logoColor=4285F4"/>
 </p>
 </details>
 
@@ -106,10 +127,50 @@ philosophy: "If it can be automated, it should be automated."
 </details>
 
 <details open>
+<summary>&nbsp;🔒 <b>SECURITY & PRIVACY</b>&nbsp;&nbsp;<code>operations</code></summary>
+<br/>
+<p>
+  <img src="https://img.shields.io/badge/Tor_Network-7D4698?style=for-the-badge&logo=torproject&logoColor=white&labelColor=000000"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/.onion_Services-000000?style=for-the-badge&logo=torproject&logoColor=00FF41"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white&labelColor=000000"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=000000"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&labelColor=000000&logoColor=2596CD"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&labelColor=000000&logoColor=FF6633"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/GPG_Encryption-0093DD?style=for-the-badge&logo=gnuprivacyguard&logoColor=white&labelColor=000000"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/OpenVPN-EA7E20?style=for-the-badge&logo=openvpn&logoColor=white&labelColor=000000"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white&labelColor=000000"/>
+</p>
+</details>
+
+<details open>
+<summary>&nbsp;🖥️ <b>SERVER & NETWORK</b>&nbsp;&nbsp;<code>hardened</code></summary>
+<br/>
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,debian,arch,nginx,bash&theme=dark&perline=5"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/iptables-Firewall-000000?style=flat-square&logo=linux&logoColor=00FF41"/>
+  <img src="https://img.shields.io/badge/nftables-Packet_Filter-000000?style=flat-square&logo=linux&logoColor=00FF41"/>
+  <img src="https://img.shields.io/badge/HAProxy-Load_Balancer-000000?style=flat-square&logoColor=00FF41"/>
+  <img src="https://img.shields.io/badge/DNS--over--HTTPS-Encrypted-000000?style=flat-square&logoColor=00FF41"/>
+</p>
+</details>
+
+<details open>
 <summary>&nbsp;💻 <b>PROGRAMMING LANGUAGES</b>&nbsp;&nbsp;<code>10 langs</code></summary>
 <br/>
 <p>
-  <img src="https://skillicons.dev/icons?i=python,go,typescript,javascript,rust,java,cs,cpp,c,php&theme=dark&perline=10"/>
+  <img src="https://skillicons.dev/icons?i=python,go,rust,c,cpp,typescript,javascript,java,cs,php&theme=dark&perline=10"/>
 </p>
 </details>
 
@@ -151,13 +212,13 @@ philosophy: "If it can be automated, it should be automated."
 
 <div align="center">
 
+```
+[root@enovore ~]# cat /var/log/github_metrics.log
+```
+
 <br/>
 
-<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━_⚡_GITHUB_ANALYTICS_⚡_━━━━━━━━━━━━━━━━━━━━━-00FF41?style=for-the-badge&labelColor=000000&color=000000"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=ynvYauneEnovore&theme=hacker&hide_border=true&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&dates=555555&currStreakNum=FFFFFF&sideNums=FFFFFF&stroke=00FF41&background=000000" width="70%" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=ynvYauneEnovore&theme=hacker&hide_border=true&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&dates=333333&currStreakNum=FFFFFF&sideNums=FFFFFF&stroke=00FF41&background=000000" width="70%" alt="GitHub Streak"/>
 
 <br/><br/>
 
@@ -181,30 +242,24 @@ philosophy: "If it can be automated, it should be automated."
 
 <div align="center">
 
+```
+[root@enovore ~]# curl -s https://api.github.com/users/ynvYauneEnovore | jq
+```
+
 <br/>
-
-<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━_⚡_LIVE_REPOSITORY_METRICS_⚡_━━━━━━━━━━━━━━━━-00FF41?style=for-the-badge&labelColor=000000&color=000000"/>
-
-<br/><br/>
-
-<p>
-  <img src="https://img.shields.io/github/repo-size/ynvYauneEnovore/ynvYauneEnovore?label=PROFILE+REPO+SIZE&style=for-the-badge&color=00FF41&labelColor=000000&logo=github&logoColor=00FF41"/>
-  &nbsp;
-  <img src="https://img.shields.io/github/last-commit/ynvYauneEnovore/ynvYauneEnovore?label=LAST+COMMIT&style=for-the-badge&color=00FF41&labelColor=000000&logo=git&logoColor=00FF41"/>
-</p>
 
 <p>
   <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FynvYauneEnovore&query=%24.public_repos&label=PUBLIC+REPOS&style=for-the-badge&color=00FF41&labelColor=000000&logo=github&logoColor=00FF41"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FynvYauneEnovore&query=%24.public_gists&label=PUBLIC+GISTS&style=for-the-badge&color=00FF41&labelColor=000000&logo=github&logoColor=00FF41"/>
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FynvYauneEnovore&query=%24.public_gists&label=GISTS&style=for-the-badge&color=00FF41&labelColor=000000&logo=github&logoColor=00FF41"/>
   &nbsp;
   <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FynvYauneEnovore&query=%24.followers&label=FOLLOWERS&style=for-the-badge&color=00FF41&labelColor=000000&logo=github&logoColor=00FF41"/>
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FynvYauneEnovore&query=%24.following&label=FOLLOWING&style=for-the-badge&color=00FF41&labelColor=000000&logo=github&logoColor=00FF41"/>
+  <img src="https://img.shields.io/github/repo-size/ynvYauneEnovore/ynvYauneEnovore?label=REPO+SIZE&style=for-the-badge&color=00FF41&labelColor=000000&logo=github&logoColor=00FF41"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FynvYauneEnovore&query=%24.created_at&label=ACCOUNT+CREATED&style=for-the-badge&color=00FF41&labelColor=000000&logo=github&logoColor=00FF41"/>
+  <img src="https://img.shields.io/github/last-commit/ynvYauneEnovore/ynvYauneEnovore?label=LAST+COMMIT&style=for-the-badge&color=00FF41&labelColor=000000&logo=git&logoColor=00FF41"/>
 </p>
 
 <br/>
@@ -215,44 +270,26 @@ philosophy: "If it can be automated, it should be automated."
 
 <div align="center">
 
-<br/>
-
-<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━_⚡_ACHIEVEMENTS_&_BADGES_⚡_━━━━━━━━━━━━━━━━━━-00FF41?style=for-the-badge&labelColor=000000&color=000000"/>
-
-<br/><br/>
-
-<a href="https://holopin.io/@ynvyauneenovore">
-  <img src="https://holopin.me/ynvyauneenovore" alt="Holopin Badges" width="85%"/>
-</a>
-
-<br/><br/>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-<div align="center">
+```
+[root@enovore ~]# cat /etc/certs/credentials.conf
+```
 
 <br/>
-
-<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━_⚡_CERTIFICATIONS_&_SKILLS_⚡_━━━━━━━━━━━━━━━━━━-00FF41?style=for-the-badge&labelColor=000000&color=000000"/>
-
-<br/><br/>
 
 <p>
-  <img src="https://img.shields.io/badge/AWS-Certified_Cloud_Architect-000000?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900"/>
+  <img src="https://img.shields.io/badge/AWS-Cloud_Architect-000000?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Kubernetes-CKA_Certified-000000?style=for-the-badge&logo=kubernetes&logoColor=326CE5"/>
+  <img src="https://img.shields.io/badge/Kubernetes-CKA-000000?style=for-the-badge&logo=kubernetes&logoColor=326CE5"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Terraform-Associate_Certified-000000?style=for-the-badge&logo=terraform&logoColor=7B42BC"/>
+  <img src="https://img.shields.io/badge/Terraform-Associate-000000?style=for-the-badge&logo=terraform&logoColor=7B42BC"/>
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Docker-DCA_Certified-000000?style=for-the-badge&logo=docker&logoColor=2496ED"/>
+  <img src="https://img.shields.io/badge/Docker-DCA-000000?style=for-the-badge&logo=docker&logoColor=2496ED"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Azure-Solutions_Architect-000000?style=for-the-badge&logo=microsoftazure&logoColor=0078D4"/>
+  <img src="https://img.shields.io/badge/OSCP-Offensive_Security-000000?style=for-the-badge&logoColor=00FF41"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Linux-LPIC_Certified-000000?style=for-the-badge&logo=linux&logoColor=FCC624"/>
+  <img src="https://img.shields.io/badge/CEH-Ethical_Hacker-000000?style=for-the-badge&logoColor=00FF41"/>
 </p>
 
 <br/>
@@ -262,44 +299,38 @@ philosophy: "If it can be automated, it should be automated."
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <div align="center">
-
-<br/>
-
-<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━_⚡_INFRASTRUCTURE_⚡_━━━━━━━━━━━━━━━━━━━━-00FF41?style=for-the-badge&labelColor=000000&color=000000"/>
-
-<br/><br/>
 
 <table>
 <tr>
 <td align="center"><b>🏗️ Architecture</b></td>
-<td align="center"><b>🔒 Security</b></td>
-<td align="center"><b>📈 Monitoring</b></td>
-<td align="center"><b>🚀 Deployment</b></td>
+<td align="center"><b>🔒 Offensive Security</b></td>
+<td align="center"><b>🛡️ Defensive Security</b></td>
+<td align="center"><b>🌐 Network</b></td>
 </tr>
 <tr>
 <td align="center">
-  <img src="https://img.shields.io/badge/Microservices-000?style=flat-square"/><br/>
-  <img src="https://img.shields.io/badge/Event_Driven-000?style=flat-square"/><br/>
-  <img src="https://img.shields.io/badge/Serverless-000?style=flat-square"/><br/>
-  <img src="https://img.shields.io/badge/Domain_Driven-000?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Microservices-0a0a0a?style=flat-square"/><br/>
+  <img src="https://img.shields.io/badge/Event_Driven-0a0a0a?style=flat-square"/><br/>
+  <img src="https://img.shields.io/badge/Serverless-0a0a0a?style=flat-square"/><br/>
+  <img src="https://img.shields.io/badge/Zero_Trust-0a0a0a?style=flat-square"/>
 </td>
 <td align="center">
-  <img src="https://img.shields.io/badge/Zero_Trust-000?style=flat-square"/><br/>
-  <img src="https://img.shields.io/badge/SAST%2FDAST-000?style=flat-square"/><br/>
-  <img src="https://img.shields.io/badge/Vault_Secrets-000?style=flat-square"/><br/>
-  <img src="https://img.shields.io/badge/IAM_Policies-000?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Pentesting-0a0a0a?style=flat-square"/><br/>
+  <img src="https://img.shields.io/badge/OSINT-0a0a0a?style=flat-square"/><br/>
+  <img src="https://img.shields.io/badge/Exploitation-0a0a0a?style=flat-square"/><br/>
+  <img src="https://img.shields.io/badge/Social_Eng-0a0a0a?style=flat-square"/>
 </td>
 <td align="center">
-  <img src="https://img.shields.io/badge/Grafana-000?style=flat-square"/><br/>
-  <img src="https://img.shields.io/badge/Prometheus-000?style=flat-square"/><br/>
-  <img src="https://img.shields.io/badge/ELK_Stack-000?style=flat-square"/><br/>
-  <img src="https://img.shields.io/badge/Datadog-000?style=flat-square"/>
+  <img src="https://img.shields.io/badge/SIEM-0a0a0a?style=flat-square"/><br/>
+  <img src="https://img.shields.io/badge/IDS%2FIPS-0a0a0a?style=flat-square"/><br/>
+  <img src="https://img.shields.io/badge/Threat_Intel-0a0a0a?style=flat-square"/><br/>
+  <img src="https://img.shields.io/badge/Incident_Response-0a0a0a?style=flat-square"/>
 </td>
 <td align="center">
-  <img src="https://img.shields.io/badge/Blue%2FGreen-000?style=flat-square"/><br/>
-  <img src="https://img.shields.io/badge/Canary-000?style=flat-square"/><br/>
-  <img src="https://img.shields.io/badge/Rolling-000?style=flat-square"/><br/>
-  <img src="https://img.shields.io/badge/GitOps-000?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Tor%2F.onion-0a0a0a?style=flat-square"/><br/>
+  <img src="https://img.shields.io/badge/VPN_Mesh-0a0a0a?style=flat-square"/><br/>
+  <img src="https://img.shields.io/badge/DNS_Tunneling-0a0a0a?style=flat-square"/><br/>
+  <img src="https://img.shields.io/badge/Proxy_Chains-0a0a0a?style=flat-square"/>
 </td>
 </tr>
 </table>
@@ -314,9 +345,19 @@ philosophy: "If it can be automated, it should be automated."
 
 <br/>
 
-<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━_⚡_CONTRIBUTION_SNAKE_⚡_━━━━━━━━━━━━━━━━━━━-00FF41?style=for-the-badge&labelColor=000000&color=000000"/>
+<a href="https://holopin.io/@ynvyauneenovore">
+  <img src="https://holopin.me/ynvyauneenovore" alt="Holopin Badges" width="85%"/>
+</a>
 
 <br/><br/>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+<div align="center">
+
+<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ynvYauneEnovore/ynvYauneEnovore/output/github-snake-dark.svg" />
@@ -335,11 +376,11 @@ philosophy: "If it can be automated, it should be automated."
 <br/>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=ynvYauneEnovore&label=PROFILE+VIEWS&color=00FF41&style=for-the-badge&labelColor=000000" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=ynvYauneEnovore&label=WATCHERS&color=00FF41&style=for-the-badge&labelColor=000000" alt="Profile views"/>
   &nbsp;
   <img src="https://img.shields.io/github/followers/ynvYauneEnovore?label=FOLLOWERS&style=for-the-badge&color=00FF41&labelColor=000000" alt="Followers"/>
   &nbsp;
-  <img src="https://img.shields.io/github/stars/ynvYauneEnovore?label=TOTAL+STARS&style=for-the-badge&color=00FF41&labelColor=000000" alt="Total Stars"/>
+  <img src="https://img.shields.io/github/stars/ynvYauneEnovore?label=STARS&style=for-the-badge&color=00FF41&labelColor=000000" alt="Total Stars"/>
 </p>
 
 <br/>
@@ -349,15 +390,11 @@ philosophy: "If it can be automated, it should be automated."
 <br/><br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=12&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&repeat=true&width=600&height=30&lines=%5B+SYSTEM+STATUS%3A+ONLINE+%7C+UPTIME%3A+99.99%25+%7C+REGION%3A+BO-1+%7C+THREAT+LEVEL%3A+MAXIMUM+%5D" alt="Status" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=400&size=11&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&repeat=true&width=700&height=25&lines=%5B+SYS+%3A%3A+STATUS%3A+ONLINE+%7C+UPTIME%3A+1460d+%7C+SERVICES%3A+.onion+%2B+clearnet+%7C+ENCRYPTION%3A+AES-256+%7C+THREAT_LVL%3A+CLASSIFIED+%5D" alt="Status" />
 </a>
-
-<br/><br/>
-
-<sub>⚡ <b>Engineered by Yovan R. Enovore</b> — © 2026</sub>
 
 <br/><br/>
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0a0a0a,100:000000&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=1&section=footer"/>
