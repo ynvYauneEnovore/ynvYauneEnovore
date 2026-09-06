@@ -345,6 +345,57 @@ ACHIEVEMENTS
 <div align="center">
 
 ```
+WAKATIME METRICS
+```
+
+<br/>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<br/><br/>
+
+</div>
+
+---
+
+<div align="center">
+
+```
+RECENT ACTIVITY
+```
+
+<br/>
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+<br/><br/>
+
+</div>
+
+---
+
+<div align="center">
+
+```
+LATEST ARTICLES
+```
+
+<br/>
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<br/><br/>
+
+</div>
+
+---
+
+<div align="center">
+
+```
 CONTRIBUTION MAP
 ```
 
