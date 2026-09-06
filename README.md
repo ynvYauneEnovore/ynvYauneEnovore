@@ -82,9 +82,6 @@ focus:
   - CI/CD Pipeline Architecture (GitHub Actions, GitLab CI)
   - Observability & Monitoring (Grafana, Prometheus, ELK)
   - Microservices & Event-Driven Architecture
-certifications:
-  - Cloud Architecture Design
-  - DevOps Engineering Professional
 languages: [Python, Go, TypeScript, Rust, Java, C#, C/C++, PHP]
 currently_learning: [Platform Engineering, FinOps, Service Mesh]
 philosophy: "If it can be automated, it should be automated."
@@ -188,23 +185,7 @@ philosophy: "If it can be automated, it should be automated."
 
 <br/>
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=ynvYauneEnovore&theme=algolia&no-bg=true&no-frame=true&column=8&margin-w=10" width="100%" alt="GitHub Trophies"/>
-</a>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=ynvYauneEnovore&theme=transparent&hide_border=true&ring=64FFDA&fire=64FFDA&currStreakLabel=64FFDA&sideLabels=8892B0&dates=545454&currStreakNum=E0E0E0&sideNums=E0E0E0&background=0D1117" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api?username=ynvYauneEnovore&show_icons=true&hide_border=true&bg_color=0D1117&title_color=64FFDA&text_color=8892B0&icon_color=64FFDA&include_all_commits=true&count_private=true&rank_icon=github" width="49%"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ynvYauneEnovore&layout=compact&hide_border=true&bg_color=0D1117&title_color=64FFDA&text_color=8892B0&langs_count=12" width="49%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ynvYauneEnovore&theme=github_dark&utcOffset=-4" width="49%"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ynvYauneEnovore&bg_color=0d1117&color=64FFDA&line=64FFDA&point=E0E0E0&area=true&area_color=0d2b45&hide_border=true&custom_title=📈%20Contribution%20Timeline" width="100%" alt="Contribution Graph"/>
+<img src="https://streak-stats.demolab.com?user=ynvYauneEnovore&theme=transparent&hide_border=true&ring=64FFDA&fire=64FFDA&currStreakLabel=64FFDA&sideLabels=8892B0&dates=545454&currStreakNum=E0E0E0&sideNums=E0E0E0&background=0D1117" width="70%" alt="GitHub Streak"/>
 
 <br/><br/>
 
@@ -214,7 +195,11 @@ philosophy: "If it can be automated, it should be automated."
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ynvYauneEnovore&theme=github_dark" width="32%"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ynvYauneEnovore&theme=github_dark" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ynvYauneEnovore&theme=github_dark" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ynvYauneEnovore&theme=github_dark&utcOffset=-4" width="32%"/>
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ynvYauneEnovore&theme=github_dark" width="49%"/>
 
 <br/><br/>
 
