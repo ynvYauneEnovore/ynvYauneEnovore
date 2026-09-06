@@ -374,9 +374,24 @@ RECENT ACTIVITY
 
 </div>
 
-
+---
 
 <div align="center">
+
+```
+LATEST ARTICLES
+```
+
+<br/>
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<br/><br/>
+
+</div>
+
+---<div align="center">
 
 ```
 CONTRIBUTION MAP
