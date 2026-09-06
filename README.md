@@ -1,46 +1,46 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a1a,100:000000&height=220&section=header&text=&fontSize=1"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0a0a0a,100:000000&height=220&section=header&text=&fontSize=1"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=42&duration=3500&pause=1000&color=FFD700&center=true&vCenter=true&repeat=true&width=700&height=70&lines=YOVAN+R.+ENOVORE" alt="Name" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=42&duration=3500&pause=1000&color=00FF41&center=true&vCenter=true&repeat=true&width=700&height=70&lines=YOVAN+R.+ENOVORE" alt="Name" />
 </a>
 
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=2500&pause=800&color=FFD700&center=true&vCenter=true&repeat=true&width=800&height=45&lines=▰▰▰+DevOps+Architect+▰+Platform+Engineer+▰+Cloud+Specialist+▰▰▰;▰▰▰+Building+Production-Grade+Infrastructure+at+Scale+▰▰▰;▰▰▰+Automating+Everything+That+Breathes+▰▰▰" alt="Subtitle" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=14&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&repeat=true&width=800&height=45&lines=▰▰▰+DevOps+Architect+▰+Platform+Engineer+▰+Cloud+Specialist+▰▰▰;▰▰▰+Building+Production-Grade+Infrastructure+at+Scale+▰▰▰;▰▰▰+%24+sudo+rm+-rf+manual_processes+▰▰▰" alt="Subtitle" />
 </a>
 
 <br/><br/>
 
 <p>
-  <img src="https://img.shields.io/badge/⚡_CLOUD-ARCHITECT-000000?style=for-the-badge&labelColor=000000&color=FFD700"/>
+  <img src="https://img.shields.io/badge/⚡_CLOUD-ARCHITECT-000000?style=for-the-badge&labelColor=000000&color=00FF41"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/⚡_DEVOPS-ENGINEER-000000?style=for-the-badge&labelColor=000000&color=FFD700"/>
+  <img src="https://img.shields.io/badge/⚡_DEVOPS-ENGINEER-000000?style=for-the-badge&labelColor=000000&color=00FF41"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/⚡_4%2B_YEARS-EXPERIENCE-000000?style=for-the-badge&labelColor=000000&color=FFD700"/>
+  <img src="https://img.shields.io/badge/⚡_4%2B_YEARS-EXPERIENCE-000000?style=for-the-badge&labelColor=000000&color=00FF41"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/⚡_18%2B-PROJECTS-000000?style=for-the-badge&labelColor=000000&color=FFD700"/>
+  <img src="https://img.shields.io/badge/⚡_18%2B-PROJECTS-000000?style=for-the-badge&labelColor=000000&color=00FF41"/>
 </p>
 
 <br/>
 
 <p>
   <a href="https://linkedin.com/in/yovanenovore" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=FFD700"/>
+    <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41"/>
   </a>
   &nbsp;
   <a href="https://github.com/ynvYauneEnovore" target="_blank">
-    <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=FFD700"/>
+    <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=00FF41"/>
   </a>
   &nbsp;
   <a href="mailto:yovanuxf@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=FFD700"/>
+    <img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=00FF41"/>
   </a>
   &nbsp;
   <a href="https://user-badge.committers.top/bolivia_private/ynvYauneEnovore">
-    <img src="https://img.shields.io/badge/🇧🇴_TOP_COMMITTER-000000?style=for-the-badge&logoColor=FFD700"/>
+    <img src="https://img.shields.io/badge/🇧🇴_TOP_COMMITTER-000000?style=for-the-badge&logoColor=00FF41"/>
   </a>
 </p>
 
@@ -80,7 +80,7 @@ philosophy: "If it can be automated, it should be automated."
 
 <br/>
 
-<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━_⚡_TECHNOLOGY_ARSENAL_⚡_━━━━━━━━━━━━━━━━━━━━-FFD700?style=for-the-badge&labelColor=000000&color=000000"/>
+<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━_⚡_TECHNOLOGY_ARSENAL_⚡_━━━━━━━━━━━━━━━━━━━━-00FF41?style=for-the-badge&labelColor=000000&color=000000"/>
 
 <br/><br/>
 
@@ -153,11 +153,11 @@ philosophy: "If it can be automated, it should be automated."
 
 <br/>
 
-<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━_⚡_GITHUB_ANALYTICS_⚡_━━━━━━━━━━━━━━━━━━━━━-FFD700?style=for-the-badge&labelColor=000000&color=000000"/>
+<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━_⚡_GITHUB_ANALYTICS_⚡_━━━━━━━━━━━━━━━━━━━━━-00FF41?style=for-the-badge&labelColor=000000&color=000000"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=ynvYauneEnovore&theme=elegant&hide_border=true&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideLabels=999999&dates=555555&currStreakNum=FFFFFF&sideNums=FFFFFF&stroke=FFD700&background=000000" width="70%" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=ynvYauneEnovore&theme=hacker&hide_border=true&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&dates=555555&currStreakNum=FFFFFF&sideNums=FFFFFF&stroke=00FF41&background=000000" width="70%" alt="GitHub Streak"/>
 
 <br/><br/>
 
@@ -183,7 +183,41 @@ philosophy: "If it can be automated, it should be automated."
 
 <br/>
 
-<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━_⚡_ACHIEVEMENTS_&_BADGES_⚡_━━━━━━━━━━━━━━━━━━-FFD700?style=for-the-badge&labelColor=000000&color=000000"/>
+<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━_⚡_LIVE_REPOSITORY_METRICS_⚡_━━━━━━━━━━━━━━━━-00FF41?style=for-the-badge&labelColor=000000&color=000000"/>
+
+<br/><br/>
+
+<p>
+  <img src="https://img.shields.io/github/repo-size/ynvYauneEnovore/ynvYauneEnovore?label=PROFILE+REPO+SIZE&style=for-the-badge&color=00FF41&labelColor=000000&logo=github&logoColor=00FF41"/>
+  &nbsp;
+  <img src="https://img.shields.io/github/last-commit/ynvYauneEnovore/ynvYauneEnovore?label=LAST+COMMIT&style=for-the-badge&color=00FF41&labelColor=000000&logo=git&logoColor=00FF41"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FynvYauneEnovore&query=%24.public_repos&label=PUBLIC+REPOS&style=for-the-badge&color=00FF41&labelColor=000000&logo=github&logoColor=00FF41"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FynvYauneEnovore&query=%24.public_gists&label=PUBLIC+GISTS&style=for-the-badge&color=00FF41&labelColor=000000&logo=github&logoColor=00FF41"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FynvYauneEnovore&query=%24.followers&label=FOLLOWERS&style=for-the-badge&color=00FF41&labelColor=000000&logo=github&logoColor=00FF41"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FynvYauneEnovore&query=%24.following&label=FOLLOWING&style=for-the-badge&color=00FF41&labelColor=000000&logo=github&logoColor=00FF41"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FynvYauneEnovore&query=%24.created_at&label=ACCOUNT+CREATED&style=for-the-badge&color=00FF41&labelColor=000000&logo=github&logoColor=00FF41"/>
+</p>
+
+<br/>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+<div align="center">
+
+<br/>
+
+<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━_⚡_ACHIEVEMENTS_&_BADGES_⚡_━━━━━━━━━━━━━━━━━━-00FF41?style=for-the-badge&labelColor=000000&color=000000"/>
 
 <br/><br/>
 
@@ -201,7 +235,7 @@ philosophy: "If it can be automated, it should be automated."
 
 <br/>
 
-<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━_⚡_CERTIFICATIONS_&_SKILLS_⚡_━━━━━━━━━━━━━━━━━━-FFD700?style=for-the-badge&labelColor=000000&color=000000"/>
+<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━_⚡_CERTIFICATIONS_&_SKILLS_⚡_━━━━━━━━━━━━━━━━━━-00FF41?style=for-the-badge&labelColor=000000&color=000000"/>
 
 <br/><br/>
 
@@ -231,7 +265,7 @@ philosophy: "If it can be automated, it should be automated."
 
 <br/>
 
-<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━_⚡_INFRASTRUCTURE_⚡_━━━━━━━━━━━━━━━━━━━━-FFD700?style=for-the-badge&labelColor=000000&color=000000"/>
+<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━_⚡_INFRASTRUCTURE_⚡_━━━━━━━━━━━━━━━━━━━━-00FF41?style=for-the-badge&labelColor=000000&color=000000"/>
 
 <br/><br/>
 
@@ -244,28 +278,28 @@ philosophy: "If it can be automated, it should be automated."
 </tr>
 <tr>
 <td align="center">
-  <img src="https://img.shields.io/badge/Microservices-000?style=flat-square&logoColor=FFD700"/><br/>
-  <img src="https://img.shields.io/badge/Event_Driven-000?style=flat-square&logoColor=FFD700"/><br/>
-  <img src="https://img.shields.io/badge/Serverless-000?style=flat-square&logoColor=FFD700"/><br/>
-  <img src="https://img.shields.io/badge/Domain_Driven-000?style=flat-square&logoColor=FFD700"/>
+  <img src="https://img.shields.io/badge/Microservices-000?style=flat-square"/><br/>
+  <img src="https://img.shields.io/badge/Event_Driven-000?style=flat-square"/><br/>
+  <img src="https://img.shields.io/badge/Serverless-000?style=flat-square"/><br/>
+  <img src="https://img.shields.io/badge/Domain_Driven-000?style=flat-square"/>
 </td>
 <td align="center">
-  <img src="https://img.shields.io/badge/Zero_Trust-000?style=flat-square&logoColor=FFD700"/><br/>
-  <img src="https://img.shields.io/badge/SAST%2FDAST-000?style=flat-square&logoColor=FFD700"/><br/>
-  <img src="https://img.shields.io/badge/Vault_Secrets-000?style=flat-square&logoColor=FFD700"/><br/>
-  <img src="https://img.shields.io/badge/IAM_Policies-000?style=flat-square&logoColor=FFD700"/>
+  <img src="https://img.shields.io/badge/Zero_Trust-000?style=flat-square"/><br/>
+  <img src="https://img.shields.io/badge/SAST%2FDAST-000?style=flat-square"/><br/>
+  <img src="https://img.shields.io/badge/Vault_Secrets-000?style=flat-square"/><br/>
+  <img src="https://img.shields.io/badge/IAM_Policies-000?style=flat-square"/>
 </td>
 <td align="center">
-  <img src="https://img.shields.io/badge/Grafana-000?style=flat-square&logoColor=FFD700"/><br/>
-  <img src="https://img.shields.io/badge/Prometheus-000?style=flat-square&logoColor=FFD700"/><br/>
-  <img src="https://img.shields.io/badge/ELK_Stack-000?style=flat-square&logoColor=FFD700"/><br/>
-  <img src="https://img.shields.io/badge/Datadog-000?style=flat-square&logoColor=FFD700"/>
+  <img src="https://img.shields.io/badge/Grafana-000?style=flat-square"/><br/>
+  <img src="https://img.shields.io/badge/Prometheus-000?style=flat-square"/><br/>
+  <img src="https://img.shields.io/badge/ELK_Stack-000?style=flat-square"/><br/>
+  <img src="https://img.shields.io/badge/Datadog-000?style=flat-square"/>
 </td>
 <td align="center">
-  <img src="https://img.shields.io/badge/Blue%2FGreen-000?style=flat-square&logoColor=FFD700"/><br/>
-  <img src="https://img.shields.io/badge/Canary-000?style=flat-square&logoColor=FFD700"/><br/>
-  <img src="https://img.shields.io/badge/Rolling-000?style=flat-square&logoColor=FFD700"/><br/>
-  <img src="https://img.shields.io/badge/GitOps-000?style=flat-square&logoColor=FFD700"/>
+  <img src="https://img.shields.io/badge/Blue%2FGreen-000?style=flat-square"/><br/>
+  <img src="https://img.shields.io/badge/Canary-000?style=flat-square"/><br/>
+  <img src="https://img.shields.io/badge/Rolling-000?style=flat-square"/><br/>
+  <img src="https://img.shields.io/badge/GitOps-000?style=flat-square"/>
 </td>
 </tr>
 </table>
@@ -280,12 +314,32 @@ philosophy: "If it can be automated, it should be automated."
 
 <br/>
 
+<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━_⚡_CONTRIBUTION_SNAKE_⚡_━━━━━━━━━━━━━━━━━━━-00FF41?style=for-the-badge&labelColor=000000&color=000000"/>
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ynvYauneEnovore/ynvYauneEnovore/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ynvYauneEnovore/ynvYauneEnovore/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ynvYauneEnovore/ynvYauneEnovore/output/github-snake-dark.svg" width="100%"/>
+</picture>
+
+<br/><br/>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+<div align="center">
+
+<br/>
+
 <p>
-  <img src="https://komarev.com/ghpvc/?username=ynvYauneEnovore&label=PROFILE+VIEWS&color=FFD700&style=for-the-badge&labelColor=000000" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=ynvYauneEnovore&label=PROFILE+VIEWS&color=00FF41&style=for-the-badge&labelColor=000000" alt="Profile views"/>
   &nbsp;
-  <img src="https://img.shields.io/github/followers/ynvYauneEnovore?label=FOLLOWERS&style=for-the-badge&color=FFD700&labelColor=000000" alt="Followers"/>
+  <img src="https://img.shields.io/github/followers/ynvYauneEnovore?label=FOLLOWERS&style=for-the-badge&color=00FF41&labelColor=000000" alt="Followers"/>
   &nbsp;
-  <img src="https://img.shields.io/github/stars/ynvYauneEnovore?label=TOTAL+STARS&style=for-the-badge&color=FFD700&labelColor=000000" alt="Total Stars"/>
+  <img src="https://img.shields.io/github/stars/ynvYauneEnovore?label=TOTAL+STARS&style=for-the-badge&color=00FF41&labelColor=000000" alt="Total Stars"/>
 </p>
 
 <br/>
@@ -294,10 +348,16 @@ philosophy: "If it can be automated, it should be automated."
 
 <br/><br/>
 
-<sub>⚡ <b>Engineered by Yovan R. Enovore</b> — © 2026 | <code>STATUS: OPERATIONAL</code> | <code>UPTIME: 99.99%</code> | <code>REGION: BO-1</code></sub>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=12&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&repeat=true&width=600&height=30&lines=%5B+SYSTEM+STATUS%3A+ONLINE+%7C+UPTIME%3A+99.99%25+%7C+REGION%3A+BO-1+%7C+THREAT+LEVEL%3A+MAXIMUM+%5D" alt="Status" />
+</a>
+
+<br/><br/>
+
+<sub>⚡ <b>Engineered by Yovan R. Enovore</b> — © 2026</sub>
 
 <br/><br/>
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a1a,100:000000&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0a0a0a,100:000000&height=120&section=footer"/>
