@@ -300,6 +300,88 @@ ENCORP_SYS >> ANALYZING PERSONNEL METRICS...
 
 <br/>
 
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ynvYauneEnovore&theme=github_dark" width="100%" alt="Profile Details"/>
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ynvYauneEnovore&theme=github_dark" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ynvYauneEnovore&theme=github_dark" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ynvYauneEnovore&theme=github_dark&utcOffset=-4" width="32%"/>
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ynvYauneEnovore&theme=github_dark" width="49%"/>
+
+<br/>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+<div align="center">
+
+```
+ENCORP_SYS >> GITHUB API DATASTREAM
+```
+
+<br/>
+
+<p>
+  <img src="https://img.shields.io/github/repo-size/ynvYauneEnovore/ynvYauneEnovore?label=REPO+SIZE&style=for-the-badge&color=E00016&labelColor=000000&logo=github&logoColor=E00016"/>
+  &nbsp;
+  <img src="https://img.shields.io/github/last-commit/ynvYauneEnovore/ynvYauneEnovore?label=LAST+COMMIT&style=for-the-badge&color=E00016&labelColor=000000&logo=git&logoColor=E00016"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FynvYauneEnovore&query=%24.public_repos&label=PUBLIC+REPOS&style=for-the-badge&color=E00016&labelColor=000000&logo=github&logoColor=E00016"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FynvYauneEnovore&query=%24.public_gists&label=PUBLIC+GISTS&style=for-the-badge&color=E00016&labelColor=000000&logo=github&logoColor=E00016"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FynvYauneEnovore&query=%24.created_at&label=ACCOUNT+CREATED&style=for-the-badge&color=E00016&labelColor=000000&logo=github&logoColor=E00016"/>
+</p>
+
+<br/>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+<div align="center">
+
+```
+ENCORP_SYS >> VALIDATING SECURITY CLEARANCES...
+```
+
+<br/>
+
+<a href="https://holopin.io/@ynvyauneenovore">
+  <img src="https://holopin.me/ynvyauneenovore" alt="Holopin Badges" width="85%"/>
+</a>
+
+<br/><br/>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+<div align="center">
+
+```
+ENCORP_SYS >> INITIATING NETWORK TRACE...
+```
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ynvYauneEnovore/ynvYauneEnovore/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ynvYauneEnovore/ynvYauneEnovore/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ynvYauneEnovore/ynvYauneEnovore/output/github-snake-dark.svg" width="100%"/>
+</picture>
+
+<br/><br/>
+
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
