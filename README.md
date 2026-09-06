@@ -588,8 +588,66 @@ ENCORP_SYS >> INITIATING NETWORK TRACE...
 
 <br/>
 
+<p>
+  <img src="https://komarev.com/ghpvc/?username=ynvYauneEnovore&label=ASSET+TRACKING&color=E00016&style=for-the-badge&labelColor=000000" alt="Profile views"/>
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/ynvYauneEnovore?label=SYMPATHIZERS&style=for-the-badge&color=E00016&labelColor=000000" alt="Followers"/>
+  &nbsp;
+  <img src="https://img.shields.io/github/stars/ynvYauneEnovore?label=INFLUENCE&style=for-the-badge&color=E00016&labelColor=000000" alt="Total Stars"/>
+</p>
+
+<br/>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+<div align="center">
+
+```
+ENCORP_SYS >> CURL -S HTTPS://API.GITHUB.COM/USERS/YNVYAUNEENOVORE | JQ
+```
+
+<br/>
+
+<p>
+  <img src="https://img.shields.io/github/repo-size/ynvYauneEnovore/ynvYauneEnovore?label=REPO+SIZE&style=for-the-badge&color=E00016&labelColor=000000&logo=github&logoColor=E00016"/>
+  &nbsp;
+  <img src="https://img.shields.io/github/last-commit/ynvYauneEnovore/ynvYauneEnovore?label=LAST+COMMIT&style=for-the-badge&color=E00016&labelColor=000000&logo=git&logoColor=E00016"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FynvYauneEnovore&query=%24.public_repos&label=PUBLIC+REPOS&style=for-the-badge&color=E00016&labelColor=000000&logo=github&logoColor=E00016"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FynvYauneEnovore&query=%24.public_gists&label=GISTS&style=for-the-badge&color=E00016&labelColor=000000&logo=github&logoColor=E00016"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FynvYauneEnovore&query=%24.followers&label=NETWORK+NODES&style=for-the-badge&color=E00016&labelColor=000000&logo=github&logoColor=E00016"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FynvYauneEnovore&query=%24.created_at&label=ACCOUNT+CREATED&style=for-the-badge&color=E00016&labelColor=000000&logo=github&logoColor=E00016"/>
+</p>
+
+<br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" alt="Dev Quote"/>
+
+<br/><br/>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+<div align="center">
+
+<br/>
+
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=400&size=11&duration=2000&pause=500&color=E00016&center=true&vCenter=true&repeat=true&width=750&height=25&lines=%5B+ENCORP+%3A%3A+STATUS%3A+ONLINE+%7C+UPTIME%3A+1460d+%7C+SERVICES%3A+GLOBAL+MESH+%7C+ENCRYPTION%3A+AES-256+%7C+THREAT_LVL%3A+CRITICAL+%5D" alt="Status" />
+</a>
+
+<br/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=10&duration=1500&pause=400&color=1a1a1a&center=true&vCenter=true&repeat=true&width=500&height=20&lines=shred+-vfz+%2Fvar%2Flog%2F*;iptables+-P+INPUT+DROP;proxychains+nmap+-sT+target" alt="ghost" />
 </a>
 
 <br/>
@@ -602,4 +660,5 @@ ENCORP_SYS >> INITIATING NETWORK TRACE...
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=1&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:E00016,30:1a0000,60:0a0000,100:000000&height=120&section=footer"/>
+
