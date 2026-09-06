@@ -373,6 +373,121 @@ status: operational
 
 <div align="center">
 
+```
+[root@enovore ~]# cat /etc/darknet/services.conf
+```
+
+<br/>
+
+<table>
+<tr>
+<td align="center"><b>🧅 Onion Services</b></td>
+<td align="center"><b>🔐 Cryptography</b></td>
+<td align="center"><b>🕵️ OPSEC</b></td>
+<td align="center"><b>📡 Comms</b></td>
+</tr>
+<tr>
+<td align="center">
+  <img src="https://img.shields.io/badge/Tor_Hidden_Services-0a0a0a?style=flat-square&logo=torproject&logoColor=7D4698"/><br/>
+  <img src="https://img.shields.io/badge/Onion_Routing-0a0a0a?style=flat-square&logo=torproject&logoColor=7D4698"/><br/>
+  <img src="https://img.shields.io/badge/I2P_Network-0a0a0a?style=flat-square&logoColor=00FF41"/><br/>
+  <img src="https://img.shields.io/badge/.onion_Hosting-0a0a0a?style=flat-square&logo=torproject&logoColor=7D4698"/>
+</td>
+<td align="center">
+  <img src="https://img.shields.io/badge/AES--256--GCM-0a0a0a?style=flat-square&logoColor=00FF41"/><br/>
+  <img src="https://img.shields.io/badge/RSA--4096-0a0a0a?style=flat-square&logoColor=00FF41"/><br/>
+  <img src="https://img.shields.io/badge/Ed25519-0a0a0a?style=flat-square&logoColor=00FF41"/><br/>
+  <img src="https://img.shields.io/badge/PGP%2FGPG-0a0a0a?style=flat-square&logo=gnuprivacyguard&logoColor=0093DD"/>
+</td>
+<td align="center">
+  <img src="https://img.shields.io/badge/Tails_OS-0a0a0a?style=flat-square&logo=tails&logoColor=56347C"/><br/>
+  <img src="https://img.shields.io/badge/Whonix-0a0a0a?style=flat-square&logoColor=00FF41"/><br/>
+  <img src="https://img.shields.io/badge/Air_Gapped-0a0a0a?style=flat-square&logoColor=00FF41"/><br/>
+  <img src="https://img.shields.io/badge/Metadata_Scrub-0a0a0a?style=flat-square&logoColor=00FF41"/>
+</td>
+<td align="center">
+  <img src="https://img.shields.io/badge/Signal_Protocol-0a0a0a?style=flat-square&logo=signal&logoColor=3A76F0"/><br/>
+  <img src="https://img.shields.io/badge/Matrix%2FElement-0a0a0a?style=flat-square&logo=element&logoColor=0DBD8B"/><br/>
+  <img src="https://img.shields.io/badge/XMPP%2FOMEMO-0a0a0a?style=flat-square&logoColor=00FF41"/><br/>
+  <img src="https://img.shields.io/badge/Dead_Drops-0a0a0a?style=flat-square&logoColor=00FF41"/>
+</td>
+</tr>
+</table>
+
+<br/>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+<div align="center">
+
+```
+[root@enovore ~]# cat /var/log/threat_matrix.log
+
+  ╔══════════════════════════════════════════════════════════════════╗
+  ║  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  ║
+  ║  ░░██░░░░██░░░█████░░░░█████░░██░░░██░░███████░░██████░░░░░░░  ║
+  ║  ░░██░░░░██░░██░░░██░░██░░░░░░██░░██░░░██░░░░░░░██░░░██░░░░░  ║
+  ║  ░░████████░░███████░░██░░░░░░████░░░░░█████░░░░██████░░░░░░░  ║
+  ║  ░░██░░░░██░░██░░░██░░██░░░░░░██░░██░░░██░░░░░░░██░░░██░░░░░  ║
+  ║  ░░██░░░░██░░██░░░██░░░█████░░██░░░██░░███████░░██░░░██░░░░░  ║
+  ║  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  ║
+  ║                                                                ║
+  ║  THREAT LEVEL ████████████████████████████░░░░ 87%             ║
+  ║  ENCRYPTION   ████████████████████████████████ 100%            ║
+  ║  ANONYMITY    ██████████████████████████░░░░░░ 82%             ║
+  ║  PERSISTENCE  ████████████████████████████████ 100%            ║
+  ║                                                                ║
+  ╚══════════════════════════════════════════════════════════════════╝
+```
+
+<br/>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+<div align="center">
+
+```
+[root@enovore ~]# systemctl status all-services
+```
+
+<br/>
+
+<p>
+  <img src="https://img.shields.io/badge/CLEARNET-ONLINE-00FF41?style=for-the-badge&labelColor=000000&logo=statuspage&logoColor=00FF41"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/.ONION-ONLINE-00FF41?style=for-the-badge&labelColor=000000&logo=torproject&logoColor=7D4698"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/VPN_MESH-ONLINE-00FF41?style=for-the-badge&labelColor=000000&logo=wireguard&logoColor=88171A"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/FIREWALL-ACTIVE-00FF41?style=for-the-badge&labelColor=000000&logo=linux&logoColor=00FF41"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/IDS-MONITORING-00FF41?style=for-the-badge&labelColor=000000&logo=linux&logoColor=00FF41"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/ENCRYPTION-AES_256-00FF41?style=for-the-badge&labelColor=000000&logo=letsencrypt&logoColor=00FF41"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/DNS-ENCRYPTED-00FF41?style=for-the-badge&labelColor=000000&logo=cloudflare&logoColor=00FF41"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/PROXY-CHAINED-00FF41?style=for-the-badge&labelColor=000000&logo=torproject&logoColor=7D4698"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/LOGS-PURGED-00FF41?style=for-the-badge&labelColor=000000&logo=linux&logoColor=00FF41"/>
+</p>
+
+<br/>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+<div align="center">
+
 <br/>
 
 <p>
@@ -389,8 +504,29 @@ status: operational
 
 <br/><br/>
 
+```
+ ╔═══════════════════════════════════════════════════════════════════╗
+ ║                                                                 ║
+ ║   "There is no patch for human stupidity."                      ║
+ ║                    — Kevin Mitnick                              ║
+ ║                                                                 ║
+ ║   "Privacy is not about having something to hide.               ║
+ ║    Privacy is about having something to protect."               ║
+ ║                    — Edward Snowden                             ║
+ ║                                                                 ║
+ ╚═══════════════════════════════════════════════════════════════════╝
+```
+
+<br/>
+
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=400&size=11&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&repeat=true&width=700&height=25&lines=%5B+SYS+%3A%3A+STATUS%3A+ONLINE+%7C+UPTIME%3A+1460d+%7C+SERVICES%3A+.onion+%2B+clearnet+%7C+ENCRYPTION%3A+AES-256+%7C+THREAT_LVL%3A+CLASSIFIED+%5D" alt="Status" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=400&size=11&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&repeat=true&width=750&height=25&lines=%5B+SYS+%3A%3A+STATUS%3A+ONLINE+%7C+UPTIME%3A+1460d+%7C+SERVICES%3A+.onion+%2B+clearnet+%7C+ENCRYPTION%3A+AES-256+%7C+THREAT_LVL%3A+CLASSIFIED+%5D" alt="Status" />
+</a>
+
+<br/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=400&size=10&duration=1500&pause=400&color=333333&center=true&vCenter=true&repeat=true&width=800&height=20&lines=%5Broot%40enovore+~%5D%23+shred+-vfz+-n+5+%2Fvar%2Flog%2F*+→+Covering+tracks...;%5Broot%40enovore+~%5D%23+iptables+-P+INPUT+DROP+→+Firewall+engaged;%5Broot%40enovore+~%5D%23+tor+--hash-password+→+Hidden+service+configured;%5Broot%40enovore+~%5D%23+proxychains+nmap+-sT+→+Scanning+through+3+proxies" alt="Ghost" />
 </a>
 
 <br/><br/>
