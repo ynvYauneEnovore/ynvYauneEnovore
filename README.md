@@ -364,6 +364,42 @@ CONTRIBUTION MAP
 
 <div align="center">
 
+```
+3D CONTRIBUTION GRAPH
+```
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-green.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg" />
+  <img alt="3D Contributions" src="./profile-3d-contrib/profile-night-green.svg" width="100%"/>
+</picture>
+
+<br/><br/>
+
+</div>
+
+---
+
+<div align="center">
+
+```
+ADVANCED METRICS
+```
+
+<br/>
+
+<img src="./github-metrics.svg" alt="Metrics" width="100%"/>
+
+<br/><br/>
+
+</div>
+
+---
+
+<div align="center">
+
 <br/>
 
 <a href="https://git.io/typing-svg">
