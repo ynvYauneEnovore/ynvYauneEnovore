@@ -16,9 +16,3 @@ jobs:
           SHOW_TITLE: true
           BLOCKS: ->
           TIME_RANGE: last_7_days
-          SHOW_TIME: true
-          SHOW_MASKED_TIME: false
-          SHOW_OS: true
-          SHOW_PROJECTS: true
-          SHOW_EDITORS: true
-          SHOW_LANGUAGE_PER_REPO: true
