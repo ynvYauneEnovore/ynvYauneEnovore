@@ -1,33 +1,47 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Yovan%20R.%20Enovore&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1a2e,100:16213e&height=220&section=header&text=Yovan%20R.%20Enovore&fontSize=48&fontColor=e0e0e0&animation=fadeIn&fontAlignY=34&desc=DevOps%20Architect%20%7C%20Platform%20Engineer%20%7C%20Cloud%20Specialist&descSize=16&descColor=8892b0&descAlignY=55"/>
 
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=DevOps+Architect+/+Platform+Engineer;" alt="Typing SVG" />
-  </a>
-</p>
 <br/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/_Cloud-Architecture-38B2AC?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/_DevOps-Engineering-FF6B6B?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/_Experience-4%2B_Years-4ECDC4?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/_Users-18%2B-FAA307?style=for-the-badge&logoColor=white"/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=4000&pause=1500&color=64FFDA&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Architecting+Production-Grade+Cloud+Infrastructure;Automating+Everything+That+Can+Be+Automated" alt="Typing SVG" />
+  </a>
 </p>
+
+<br/>
+
+<table>
+<tr>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/Cloud-Architecture-64FFDA?style=flat-square&labelColor=0a0a0a&logoColor=white"/>
+</td>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/DevOps-Engineering-64FFDA?style=flat-square&labelColor=0a0a0a&logoColor=white"/>
+</td>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/Experience-4%2B%20Years-64FFDA?style=flat-square&labelColor=0a0a0a&logoColor=white"/>
+</td>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/Projects-18%2B-64FFDA?style=flat-square&labelColor=0a0a0a&logoColor=white"/>
+</td>
+</tr>
+</table>
 
 <br/>
 
 <p align="center">
   <a href="https://linkedin.com/in/yovanenovore" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=64FFDA"/>
   </a>
+  &nbsp;
   <a href="https://github.com/ynvYauneEnovore" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=64FFDA"/>
   </a>
+  &nbsp;
   <a href="mailto:yovanuxf@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=64FFDA"/>
   </a>
 </p>
 
@@ -37,64 +51,113 @@
 
 </div>
 
----
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
 
 <div align="center">
 
-### Cloud & Infrastructure
+<br/>
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║                     TECHNOLOGY STACK                         ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+<br/>
+
+<details open>
+<summary><b>☁️ Cloud & Infrastructure</b></summary>
+<br/>
 <p>
   <img src="https://skillicons.dev/icons?i=aws,azure,gcp,cloudflare,vercel,netlify&theme=dark&perline=6"/>
 </p>
+</details>
 
-### DevOps & Orchestration
+<details open>
+<summary><b>⚙️ DevOps & Orchestration</b></summary>
+<br/>
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,githubactions,gitlab,grafana,prometheus&theme=dark&perline=9"/>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,githubactions,gitlab,grafana,prometheus&theme=dark&perline=7"/>
 </p>
+</details>
 
-### Programming Languages
+<details open>
+<summary><b>💻 Programming Languages</b></summary>
+<br/>
 <p>
   <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,javascript,typescript,go,rust,java,php&theme=dark&perline=10"/>
 </p>
+</details>
 
-### Frontend & Frameworks
+<details open>
+<summary><b>🎨 Frontend & Frameworks</b></summary>
+<br/>
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxt,angular,svelte,tailwind,bootstrap,materialui&theme=dark&perline=9"/>
 </p>
+</details>
 
-### Backend & APIs
+<details open>
+<summary><b>🔧 Backend & APIs</b></summary>
+<br/>
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,fastapi,django,flask,spring,dotnet,graphql&theme=dark&perline=9"/>
 </p>
+</details>
 
-### Databases & Cache
+<details open>
+<summary><b>🗄️ Databases & Cache</b></summary>
+<br/>
 <p>
-  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,redis,sqlite&theme=dark&perline=8"/>
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,redis,sqlite&theme=dark&perline=5"/>
 </p>
+</details>
 
-### Message Brokers & Streaming
+<details open>
+<summary><b>📡 Message Brokers & Streaming</b></summary>
+<br/>
 <p>
   <img src="https://skillicons.dev/icons?i=rabbitmq,kafka,nginx&theme=dark&perline=3"/>
 </p>
+</details>
 
-### Development Tools
+<details open>
+<summary><b>🛠️ Development Tools</b></summary>
+<br/>
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,vim,postman,linux,bash,powershell,arduino&theme=dark&perline=9"/>
 </p>
+</details>
+
+</div>
 
 <br/>
 
-</div>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
 
 <div align="center">
 
 <br/>
 
-<!-- Activity Graph mejorado -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ynvYauneEnovore&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=38B2AC&line=38B2AC&point=C9D1D9" width="100%" alt="Contribution Graph"/>
+```
+╔══════════════════════════════════════════════════════════════╗
+║                    GITHUB ANALYTICS                          ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ynvYauneEnovore&theme=tokyonight_duo&hide_border=true&background=0D1117&ring=64FFDA&fire=64FFDA&currStreakLabel=64FFDA&sideLabels=8892B0&dates=8892B0&currStreakNum=E0E0E0&sideNums=E0E0E0" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ynvYauneEnovore&show_icons=true&hide_border=true&bg_color=0D1117&title_color=64FFDA&text_color=8892B0&icon_color=64FFDA&ring_color=64FFDA" width="49%"/>
 
 <br/><br/>
 
-<!-- Profile Summary Cards -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ynvYauneEnovore&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=64FFDA&line=64FFDA&point=E0E0E0&area_color=1a1a2e" width="100%" alt="Contribution Graph"/>
+
+<br/><br/>
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ynvYauneEnovore&theme=github_dark" width="100%" alt="Profile Details"/>
 
 <br/><br/>
@@ -107,42 +170,72 @@
 
 </div>
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
+
 <div align="center">
 
+<br/>
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║                  CONTRIBUTION SNAKE                          ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ynvYauneEnovore/ynvYauneEnovore/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ynvYauneEnovore/ynvYauneEnovore/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ynvYauneEnovore/ynvYauneEnovore/output/github-snake-dark.svg" width="100%"/>
+</picture>
+
+<br/><br/>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
+
+<div align="center">
+
+<br/>
+
 <a href="https://holopin.io/@ynvyauneenovore">
-  <img src="https://holopin.me/ynvyauneenovore" alt="Holopin Badges" width="85%"/>
+  <img src="https://holopin.me/ynvyauneenovore" alt="Holopin Badges" width="80%"/>
 </a>
 
 <br/><br/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" alt="Random Dev Quote"/>
+</div>
 
-### Profile Analytics
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
+
+<div align="center">
+
+<br/>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ynvYauneEnovore&label=Profile%20Views&color=38B2AC&style=for-the-badge" alt="Profile views"/>
-  <img src="https://img.shields.io/github/followers/ynvYauneEnovore?label=Followers&style=for-the-badge&color=38B2AC" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/ynvYauneEnovore?label=Total%20Stars&style=for-the-badge&color=38B2AC" alt="Total Stars"/>
+  <img src="https://komarev.com/ghpvc/?username=ynvYauneEnovore&label=Profile%20Views&color=0a0a0a&style=flat-square&labelColor=0a0a0a" alt="Profile views"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/github/followers/ynvYauneEnovore?label=Followers&style=flat-square&color=0a0a0a&labelColor=0a0a0a" alt="Followers"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/github/stars/ynvYauneEnovore?label=Total%20Stars&style=flat-square&color=0a0a0a&labelColor=0a0a0a" alt="Total Stars"/>
 </p>
 
 <br/>
 
-<div align="center">
-  
-<br/>
-
-** "Building scalable solutions, one commit at a time"**
-
-<br/>
-
-<img src="https://img.shields.io/badge/Made_with-❤️_and_☕-red?style=for-the-badge"/>
+```
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+  "Infrastructure is code. Code is craft. Craft is excellence."
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+```
 
 <br/>
 
-<sub>⭐️ From [ynvYauneEnovore](https://github.com/ynvYauneEnovore) | Last updated: 2026</sub>
+<sub>© 2026 Yovan R. Enovore — All rights reserved</sub>
+
+<br/><br/>
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer"/>
-
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1a2e,100:16213e&height=120&section=footer"/>
