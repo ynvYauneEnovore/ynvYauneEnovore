@@ -353,13 +353,13 @@ WAKATIME METRICS
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 September 2026 - To: 16 September 2026
+From: 10 September 2026 - To: 17 September 2026
 
-TypeScript   2 hrs 18 mins         >>>>>>>>>>>--------------   44.78 %
-Bash         42 mins               >>>----------------------   13.63 %
-Markdown     35 mins               >>>----------------------   11.37 %
-Astro        29 mins               >>-----------------------   09.71 %
-Python       29 mins               >>-----------------------   09.47 %
+TypeScript   1 hr 47 mins          >>>>>>>>>>>>>>>----------   59.81 %
+Astro        29 mins               >>>>---------------------   16.71 %
+Markdown     19 mins               >>>----------------------   10.78 %
+CSS          8 mins                >------------------------   04.88 %
+Bash         5 mins                >------------------------   03.18 %
 ```
 
 <!--END_SECTION:waka-->
