@@ -437,6 +437,12 @@ CONTRIBUTION MAP
   <img alt="3D Contributions" src="./profile-3d-contrib/profile-night-green.svg" width="100%"/>
 </picture>
 
+<br/>
+
+<div align="center">
+  <img src="https://github-trophies.vercel.app/?username=ynvYauneEnovore&theme=radical&no-frame=true&no-bg=true&row=2&column=4" width="98%" alt="GitHub Trophies" />
+</div>
+
 <br/><br/>
 
 </div>
