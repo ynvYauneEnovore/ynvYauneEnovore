@@ -6,6 +6,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=40&duration=3500&pause=1500&color=00E676&center=true&vCenter=true&repeat=true&width=850&height=70&lines=Y+O+V+A+N+++E+N+O+V+O+R+E" alt="Name" />
 </a>
 
+[![GitHub Commits Badge](https://ghcommits.com/api/badge/ynvYauneEnovore.svg)](https://ghcommits.com/u/ynvYauneEnovore)
+
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=12&duration=2000&pause=500&color=555555&center=true&vCenter=true&repeat=true&width=500&height=25&lines=DEVOPS+ARCHITECT+%7C+PLATFORM+ENGINEER" alt="Subtitle" />
 </a>
